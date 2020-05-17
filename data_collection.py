@@ -180,7 +180,7 @@ Accepts a valid Genius URL as a string.
 Note: This function serves as an alternative to the above functions 
 add_album_lyrics and add_lyrics_normal_alternate, in that instead of manually
 constructing a Genius URL based off a given album artist name and album name,
-it simply accepts a valid Genius URL. The motivation behind this is discussed
+it simply accepts a valid GeFnius URL. The motivation behind this is discussed
 in greater detail in the accompanying final report.
 
 Returns: a list of strings, each of which represents lyrics from a single track
@@ -208,7 +208,7 @@ def add_lyrics_hardcode_alternate(genius_url):
 
 
 
-# -------------------------------WEB SCRAPING----------------------------------
+# ---------------------------INITIAL WEB SCRAPING-------------------------------
 
 # Here, we scrape data from Metacritic reviews, Genius album tracklists, 
 # and Genius lyrics pages to ultimately build a list of dictionaries,
@@ -392,6 +392,8 @@ for index, row in albums_df.iterrows():
 for i in error_title_artist_mapping2:
     if i in album_url_mappings:
         albums_df_ml.iloc[i, 1] = str(add_lyrics_hardcode_alternate(album_url_mappings[i]))
+
+
 
 
 # --------------------------EXPORTING DATA TO CSV-------------------------------
