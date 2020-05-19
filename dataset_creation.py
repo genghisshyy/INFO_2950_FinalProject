@@ -520,3 +520,14 @@ albums_df["explicit_avg"] = explicit_average
 # so as to be able to access it more readily:
 
 albums_df.to_csv("/Users/Genghis/Desktop/INFO_2950/INFO_2950_FinalProject/data/albums.csv", index=False)
+
+# In addition, we will export a condensed version of the above DataFrame 
+# `albums_df` (specifically one without the `lyrics` column), so as to obtain 
+# a smaller dataset. The `lyrics` column has, after all, already been analyzed 
+# for explicit content, and used to construct the columns `explicit_count` and 
+# `explicit_avg`.
+
+condensed_albums_df = albums_df[["artist", "metascore", "num_lyric_tracks", \
+    "release_date", "title", "user_score", "explicit_count", "explicit_avg"]]
+
+condensed_albums_df.to_csv("/Users/Genghis/Desktop/INFO_2950/INFO_2950_FinalProject/data/condensed_albums.csv", index=False)
