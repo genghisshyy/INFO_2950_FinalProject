@@ -2,11 +2,11 @@ artist,metascore,num_lyric_tracks,release_date,title,user_score,explicit_count,e
 Justin Bieber,57,17,14-Feb-20,Changes,5.7,4,0.23529411764705882
 Beach Slang,59,11,10-Jan-20,The Deadbeat Bang of Heartbreak City,4.5,27,2.4545454545454546
 James Taylor,60,16,28-Feb-20,American Standard,8.5,0,0.0
-DaBaby,61,13,17-Apr-20,Blame It on Baby,4.5,333,25.615384615384617
+DaBaby,61,13,17-Apr-20,Blame It on Baby,4.5,330,25.384615384615383
 Morrissey,62,11,20-Mar-20,I Am Not a Dog on a Chain,8.3,1,0.09090909090909091
-Lil Wayne,62,24,31-Jan-20,Funeral,6.1,410,17.083333333333332
+Lil Wayne,62,24,31-Jan-20,Funeral,6.1,422,17.583333333333332
 Niall Horan,63,14,13-Mar-20,Heartbreak Weather,8.7,0,0.0
-Eminem,64,20,17-Jan-20,Music To Be Murdered By,8.5,206,10.3
+Eminem,64,20,17-Jan-20,Music To Be Murdered By,8.5,204,10.2
 Caleb Landry Jones,65,15,1-May-20,The Mother Stone,tbd,0,0.0
 Mura Masa,65,11,17-Jan-20,R.Y.C.,6.3,13,1.1818181818181819
 Best Coast,66,11,21-Feb-20,Always Tomorrow,7.8,3,0.2727272727272727
@@ -15,7 +15,7 @@ Green Day,68,0,7-Feb-20,Father of All…,5.3,0,0.0
 Nathaniel Rateliff,68,10,14-Feb-20,And It's Still Alright,tbd,8,0.8
 Ellis,68,0,3-Apr-20,Born Again,tbd,0,0.0
 Porches,69,11,13-Mar-20,Ricky Music,6.8,13,1.1818181818181819
-Deap Lips,69,10,13-Mar-20,Deap Lips,6.0,42,4.2
+Deap Lips,69,10,13-Mar-20,Deap Lips,6.0,43,4.3
 EOB,70,0,17-Apr-20,Earth,8.3,0,0.0
 Poliça,70,0,31-Jan-20,When We Stay Alive,6.7,0,0.0
 Wolf Parade,70,10,24-Jan-20,Thin Mind,8.1,1,0.1
@@ -34,7 +34,7 @@ TOPS,72,11,3-Apr-20,I Feel Alive,8.5,1,0.09090909090909091
 Hilary Woods,73,8,13-Mar-20,Birthmarks,tbd,0,0.0
 Little Dragon,73,11,27-Mar-20,"New Me, Same Us",7.7,0,0.0
 Hazel English,73,10,24-Apr-20,Wake UP!,7.7,11,1.1
-Kesha,73,16,31-Jan-20,High Road,8.7,91,5.6875
+Kesha,73,16,31-Jan-20,High Road,8.7,94,5.875
 The Orielles,73,10,28-Feb-20,Disco Volador,8.0,0,0.0
 HMLTD,73,15,7-Feb-20,West of Eden,8.0,14,0.9333333333333333
 The Districts,73,11,13-Mar-20,You Know I'm Not Going Anywhere,tbd,5,0.45454545454545453
@@ -61,7 +61,7 @@ Humanist,75,15,21-Feb-20,HUMANIST,tbd,1,0.06666666666666667
 Of Montreal,76,10,17-Jan-20,Ur Fun,7.0,7,0.7
 Black Lips,76,12,24-Jan-20,Sing in a World That's Falling Apart,7.1,5,0.4166666666666667
 Squarepusher,76,9,31-Jan-20,Be Up a Hello,6.1,0,0.0
-Shabazz Palaces,76,10,17-Apr-20,The Don of Diamond Dreams,8.1,69,6.9
+Shabazz Palaces,76,10,17-Apr-20,The Don of Diamond Dreams,8.1,72,7.2
 Greg Dulli,76,10,21-Feb-20,Random Desire,8.7,1,0.1
 Nap Eyes,76,11,27-Mar-20,Snapshot of a Beginner,tbd,3,0.2727272727272727
 Selena Gomez,76,13,10-Jan-20,Rare,8.7,2,0.15384615384615385
@@ -72,7 +72,7 @@ Daniel Avery,76,0,27-Mar-20,Illusion of Time,6.8,0,0.0
 Car Seat Headrest,76,11,1-May-20,Making a Door Less Open,7.3,7,0.6363636363636364
 Marcus King,77,12,17-Jan-20,El Dorado,6.7,3,0.25
 Brian Fallon,77,8,27-Mar-20,Local Honey,8.4,2,0.25
-Kehlani,77,15,8-May-20,It Was Good Until It Wasn't,8.9,100,6.666666666666667
+Kehlani,77,15,8-May-20,It Was Good Until It Wasn't,8.9,101,6.733333333333333
 John Moreland,77,11,7-Feb-20,LP5,tbd,6,0.5454545454545454
 Fiona Apple,100,13,17-Apr-20,Fetch the Bolt Cutters,8.7,7,0.5384615384615384
 Perfume Genius,92,13,15-May-20,Set My Heart on Fire Immediately,8.9,0,0.0
@@ -93,15 +93,15 @@ The James Hunter Six,85,13,6-Mar-20,Nick of Time,8.5,0,0.0
 Porridge Radio,85,11,13-Mar-20,Every Bad,8.0,5,0.45454545454545453
 Lilly Hiatt,85,0,27-Mar-20,Walking Proof,8.2,0,0.0
 Katie Gately,85,8,14-Feb-20,Loom,8.7,1,0.125
-Charli XCX,84,11,15-May-20,how i'm feeling now,8.9,4,0.36363636363636365
+Charli XCX,84,11,15-May-20,how i'm feeling now,8.9,3,0.2727272727272727
 Hayley Williams,84,15,8-May-20,Petals for Armor,9.4,2,0.13333333333333333
 Thundercat,84,15,3-Apr-20,It Is What It Is,7.9,3,0.2
 Bill Fay,84,17,17-Jan-20,Countless Branches,6.9,0,0.0
 Sparks,84,14,15-May-20,"A Steady Drip, Drip, Drip",8.4,22,1.5714285714285714
 Code Orange,84,15,13-Mar-20,Underneath,8.6,10,0.6666666666666666
-Lil Uzi Vert,84,18,6-Mar-20,Eternal Atake,6.9,313,17.38888888888889
+Lil Uzi Vert,84,18,6-Mar-20,Eternal Atake,6.9,306,17.0
 Caribou,84,12,28-Feb-20,Suddenly,8.2,0,0.0
-Lucinda Williams,84,12,24-Apr-20,Good Souls Better Angels,8.4,10,0.8333333333333334
+Lucinda Williams,84,12,24-Apr-20,Good Souls Better Angels,8.4,9,0.75
 Shabaka & the Ancestors,84,11,13-Mar-20,We Are Sent Here by History,7.8,0,0.0
 Mac Miller,83,12,17-Jan-20,Circles,7.6,20,1.6666666666666667
 Brandy Clark,83,11,6-Mar-20,Your Life Is a Record,7.6,7,0.6363636363636364
@@ -118,7 +118,7 @@ Mark Lanegan,82,15,8-May-20,Straight Songs of Sorrow,7.9,7,0.4666666666666667
 Tony Allen,82,0,20-Mar-20,Rejoice,tbd,0,0.0
 Kiwi Jr.,82,10,17-Jan-20,Football Money,6.6,1,0.1
 Six Organs of Admittance,82,0,21-Feb-20,Companion Rises,8.3,0,0.0
-Jessie Reyez,82,14,27-Mar-20,Before Love Came To Kill Us,8.6,77,5.5
+Jessie Reyez,82,14,27-Mar-20,Before Love Came To Kill Us,8.6,80,5.714285714285714
 Cornershop,82,0,6-Mar-20,England Is a Garden,tbd,0,0.0
 BTS,82,20,21-Feb-20,Map of the Soul: 7,9.6,6,0.3
 Empress Of,82,12,3-Apr-20,I'm Your Empress Of,8.5,33,2.75
@@ -132,10 +132,10 @@ Aoife Nessa Frances,81,9,17-Jan-20,Land of No Junction,tbd,0,0.0
 The Necks,81,0,27-Mar-20,Three,tbd,0,0.0
 Ren Harvieu,81,1,3-Apr-20,Revel in the Drama,tbd,0,0.0
 Stephen Malkmus,81,10,6-Mar-20,Traditional Techniques,6.9,1,0.1
-Andy Shauf,81,11,24-Jan-20,The Neon Skyline,8.0,10,0.9090909090909091
+Andy Shauf,81,11,24-Jan-20,The Neon Skyline,8.0,9,0.8181818181818182
 Caroline Rose,81,11,6-Mar-20,Superstar,8.1,6,0.5454545454545454
 Nine Inch Nails,81,9,27-Mar-20,Ghosts V: Together,7.7,0,0.0
-070 Shake,80,14,17-Jan-20,Modus Vivendi,7.8,11,0.7857142857142857
+070 Shake,80,14,17-Jan-20,Modus Vivendi,7.8,10,0.7142857142857143
 Destroyer,80,10,31-Jan-20,Have We Met,7.5,7,0.7
 Hamilton Leithauser,80,11,10-Apr-20,The Loves of Your Life,8.1,0,0.0
 Maria McKee,80,0,13-Mar-20,La Vita Nuova,tbd,0,0.0
@@ -147,11 +147,11 @@ Disq,80,10,6-Mar-20,Collector,8.7,0,0.0
 The Chats,80,14,27-Mar-20,High Risk Behaviour,8.9,10,0.7142857142857143
 Ian William Craig,80,0,27-Mar-20,Red Sun Through Smoke,tbd,0,0.0
 Nada Surf,80,9,7-Feb-20,Never Not Together,8.4,2,0.2222222222222222
-Halsey,80,16,17-Jan-20,Manic,8.2,17,1.0625
+Halsey,80,16,17-Jan-20,Manic,8.2,16,1.0
 Sir Richard Bishop,80,0,17-Apr-20,Oneiric Formulary,tbd,0,0.0
 Liam Payne,44,22,6-Dec-19,LP1,7.3,7,0.3181818181818182
 Lil Pump,46,16,22-Feb-19,Harverd Dropout,2.5,343,21.4375
-Weezer,53,10,1-Mar-19,Weezer [Black Album],5.4,9,0.9
+Weezer,53,10,1-Mar-19,Weezer [Black Album],5.4,20,2.0
 Kanye West,53,11,25-Oct-19,Jesus Is King,5.2,0,0.0
 Avril Lavigne,55,12,15-Feb-19,Head Above Water,8.3,14,1.1666666666666667
 The Avett Brothers,56,13,4-Oct-19,Closer Than Together,tbd,2,0.15384615384615385
@@ -164,9 +164,9 @@ Weezer,58,10,24-Jan-19,Weezer (Teal Album),5.3,2,0.2
 Khalid,58,17,5-Apr-19,Free Spirit,6.5,9,0.5294117647058824
 Nas,58,0,19-Jul-19,The Lost Tapes II,8.5,0,0.0
 Honeyblood,59,11,24-May-19,In Plain Sight,tbd,9,0.8181818181818182
-DJ Khaled,59,15,17-May-19,Father Of Asahd,2.8,105,7.0
+DJ Khaled,59,15,17-May-19,Father Of Asahd,2.8,114,7.6
 LSD,60,10,12-Apr-19,"Labrinth, Sia & Diplo Present LSD",7.5,3,0.3
-Juice WRLD,61,22,8-Mar-19,Death Race for Love,5.8,249,11.318181818181818
+Juice WRLD,61,22,8-Mar-19,Death Race for Love,5.8,253,11.5
 Kaiser Chiefs,61,11,26-Jul-19,Duck,6.3,6,0.5454545454545454
 Mabel,61,22,2-Aug-19,High Expectations,7.9,27,1.2272727272727273
 MARINA,62,16,26-Apr-19,Love + Fear,8.1,1,0.0625
@@ -179,7 +179,7 @@ Robbie Robertson,64,13,20-Sep-19,Sinematic,8.2,7,0.5384615384615384
 UNKLE,64,22,29-Mar-19,"The Road, Pt. 2: Lost Highway",6.9,5,0.22727272727272727
 Sleeper,64,11,22-Mar-19,The Modern Age,6.5,5,0.45454545454545453
 Peter Doherty & the Puta Madres,65,11,26-Apr-19,Peter Doherty & the Puta Madres,tbd,2,0.18181818181818182
-Frank Turner,65,13,16-Aug-19,No Man's Land,tbd,1,0.07692307692307693
+Frank Turner,65,13,16-Aug-19,No Man's Land,tbd,2,0.15384615384615385
 Harry Nilsson,65,11,22-Nov-19,Losst and Founnd,tbd,1,0.09090909090909091
 Maren Morris,66,14,8-Mar-19,Girl,7.1,12,0.8571428571428571
 Boris,66,0,4-Oct-19,Love & Evol,tbd,0,0.0
@@ -187,8 +187,8 @@ Taylor Hawkins & the Coattail Riders,66,0,8-Nov-19,Get the Money,tbd,0,0.0
 Blink-182,67,16,20-Sep-19,Nine,6.7,5,0.3125
 Methyl Ethel,67,9,15-Feb-19,Triage,7.1,0,0.0
 Temples,67,11,27-Sep-19,Hot Motion,7.5,0,0.0
-Rick Ross,67,15,9-Aug-19,Port of Miami 2,6.8,177,11.8
-Why?,67,19,9-Aug-19,Aokohio,5.0,7,0.3684210526315789
+Rick Ross,67,15,9-Aug-19,Port of Miami 2,6.8,201,13.4
+Why?,67,19,9-Aug-19,Aokohio,5.0,6,0.3157894736842105
 Gang of Four,67,0,19-Apr-19,Happy Now,tbd,0,0.0
 Chaka Khan,68,7,15-Feb-19,Hello Happiness,5.9,0,0.0
 William Patrick Corgan,68,0,22-Nov-19,Cotillions,7.0,0,0.0
@@ -212,27 +212,27 @@ Tallies,69,11,11-Jan-19,Tallies,6.5,0,0.0
 Mac DeMarco,69,13,10-May-19,Here Comes the Cowboy,6.5,2,0.15384615384615385
 Efterklang,69,9,20-Sep-19,Altid Sammen,7.2,0,0.0
 Bleached,69,12,12-Jul-19,Don't You Think You've Had Enough?,7.8,12,1.0
-DJ Shadow,69,26,15-Nov-19,Our Pathetic Age,8.3,42,1.6153846153846154
+DJ Shadow,69,26,15-Nov-19,Our Pathetic Age,8.3,40,1.5384615384615385
 The Darkness,69,14,4-Oct-19,Easter is Cancelled,7.6,4,0.2857142857142857
-ScHoolboy Q,69,14,26-Apr-19,CrasH Talk,6.9,156,11.142857142857142
+ScHoolboy Q,69,14,26-Apr-19,CrasH Talk,6.9,158,11.285714285714286
 Cosey Fanni Tutti,69,0,8-Feb-19,Tutti,tbd,0,0.0
 Allah-Las,70,13,11-Oct-19,Lahs,7.8,1,0.07692307692307693
-Common,70,11,30-Aug-19,Let Love,7.1,30,2.727272727272727
+Common,70,11,30-Aug-19,Let Love,7.1,29,2.6363636363636362
 Pixies,70,12,13-Sep-19,Beneath the Eyrie,7.5,4,0.3333333333333333
-Future,70,20,18-Jan-19,Future Hndrxx Presents: The WIZRD,6.1,226,11.3
+Future,70,20,18-Jan-19,Future Hndrxx Presents: The WIZRD,6.1,244,12.2
 Kindness,70,13,6-Sep-19,Something Like a War,7.4,1,0.07692307692307693
 Ride,70,12,16-Aug-19,This Is Not a Safe Place,8.1,0,0.0
 Mndsgn,70,0,14-Jun-19,Snaxx,tbd,0,0.0
 Madonna,70,18,14-Jun-19,Madame X,8.8,22,1.2222222222222223
 Nick Cave & the Bad Seeds,96,11,4-Oct-19,Ghosteen,8.7,0,0.0
 Weyes Blood,91,11,5-Apr-19,Titanic Rising,9.0,0,0.0
-Little Simz,91,10,1-Mar-19,Grey Area,8.3,60,6.0
+Little Simz,91,10,1-Mar-19,Grey Area,8.3,61,6.1
 Baroness,91,17,14-Jun-19,Gold & Grey,7.4,3,0.17647058823529413
 Raphael Saadiq,90,13,23-Aug-19,Jimmy Lee,5.8,15,1.1538461538461537
-Rapsody,90,16,23-Aug-19,Eve,8.0,68,4.25
-Dave,90,11,8-Mar-19,Psychodrama,7.9,63,5.7272727272727275
+Rapsody,90,16,23-Aug-19,Eve,8.0,66,4.125
+Dave,90,11,8-Mar-19,Psychodrama,7.9,58,5.2727272727272725
 Michael Kiwanuka,89,14,1-Nov-19,Kiwanuka,8.2,0,0.0
-Jamila Woods,89,13,10-May-19,LEGACY! LEGACY!,8.0,18,1.3846153846153846
+Jamila Woods,89,13,10-May-19,LEGACY! LEGACY!,8.0,19,1.4615384615384615
 Angel Olsen,89,11,4-Oct-19,All Mirrors,7.6,6,0.5454545454545454
 Solange,89,19,1-Mar-19,When I Get Home,7.5,16,0.8421052631578947
 Slipknot,89,14,9-Aug-19,We Are Not Your Kind,8.5,23,1.6428571428571428
@@ -248,7 +248,7 @@ Cate Le Bon,87,10,24-May-19,Reward,8.0,0,0.0
 Purple Mountains,87,10,12-Jul-19,Purple Mountains,7.8,5,0.5
 Lana Del Rey,87,14,30-Aug-19,Norman Fucking Rockwell!,9.2,40,2.857142857142857
 Sharon Van Etten,86,10,18-Jan-19,Remind Me Tomorrow,8.1,3,0.3
-Ariana Grande,86,12,8-Feb-19,"thank u, next",7.2,34,2.8333333333333335
+Ariana Grande,86,12,8-Feb-19,"thank u, next",7.2,29,2.4166666666666665
 Bobby Krlic,86,0,5-Jul-19,Midsommar [Original Motion Picture Soundtrack],8.0,0,0.0
 (Sandy) Alex G,86,14,13-Sep-19,House of Sugar,8.7,2,0.14285714285714285
 Fontaines DC,86,11,12-Apr-19,Dogrel,8.2,2,0.18181818181818182
@@ -256,8 +256,8 @@ Chai,86,10,15-Mar-19,Punk,7.2,0,0.0
 Rhiannon Giddens,86,16,3-May-19,There is No Other,7.5,0,0.0
 Edwyn Collins,85,12,29-Mar-19,Badbea,tbd,3,0.25
 PUP,85,11,5-Apr-19,Morbid Stuff,8.3,13,1.1818181818181819
-Denzel Curry,85,12,31-May-19,ZUU,7.9,109,9.083333333333334
-JPEGMAFIA,85,18,13-Sep-19,All My Heroes Are Cornballs,8.7,204,11.333333333333334
+Denzel Curry,85,12,31-May-19,ZUU,7.9,114,9.5
+JPEGMAFIA,85,18,13-Sep-19,All My Heroes Are Cornballs,8.7,203,11.277777777777779
 Yola,85,12,22-Feb-19,Walk Through Fire,8.3,0,0.0
 Bedouine,85,12,21-Jun-19,Bird Songs of a Killjoy,6.9,1,0.08333333333333333
 Tinariwen,85,0,6-Sep-19,Amadjar,7.6,0,0.0
@@ -286,9 +286,9 @@ Bruce Springsteen,84,13,14-Jun-19,Western Stars,7.1,5,0.38461538461538464
 Devin Townsend,84,10,29-Mar-19,Empath,8.5,0,0.0
 Beth Gibbons,84,0,29-Mar-19,"Henryk Górecki: Symphony No. 3 ""Symphony of Sorrowful Songs"" [Live]",7.9,0,0.0
 Jessica Pratt,84,9,8-Feb-19,Quiet Signs,7.7,0,0.0
-Thom Yorke,84,10,27-Jun-19,ANIMA,8.8,0,0.0
+Thom Yorke,84,10,27-Jun-19,ANIMA,8.8,1,0.1
 Leonard Cohen,84,9,22-Nov-19,Thanks for the Dance,7.8,7,0.7777777777777778
-Lizzo,84,11,19-Apr-19,Cuz I Love You,7.5,75,6.818181818181818
+Lizzo,84,11,19-Apr-19,Cuz I Love You,7.5,74,6.7272727272727275
 Peter Perrett,84,12,7-Jun-19,Humanworld,tbd,3,0.25
 Sudan Archives,83,14,1-Nov-19,Athena,7.4,6,0.42857142857142855
 Danny Brown,83,0,4-Oct-19,uknowhatimsayin¿,8.3,0,0.0
@@ -299,13 +299,13 @@ Tanya Tucker,83,10,23-Aug-19,While I'm Livin',8.7,8,0.8
 Mekons,83,9,29-Mar-19,Deserted,tbd,2,0.2222222222222222
 Sampa the Great,83,19,13-Sep-19,The Return,7.8,35,1.8421052631578947
 Pharmakon,83,5,30-Aug-19,Devour,7.5,0,0.0
-6ix9ine,38,13,27-Nov-18,DUMMY BOY,1.9,218,16.76923076923077
+6ix9ine,38,13,27-Nov-18,DUMMY BOY,1.9,224,17.23076923076923
 XXXTentacion,44,10,7-Dec-18,Skins,3.3,18,1.8
 Sting,49,16,20-Apr-18,44/876,6.1,1,0.0625
-Lil Xan,49,16,6-Apr-18,Total Xanarchy,2.7,286,17.875
-Lil Yachty,50,17,9-Mar-18,Lil Boat 2,5.3,360,21.176470588235293
-Post Malone,51,18,27-Apr-18,Beerbongs & Bentleys,6.3,113,6.277777777777778
-Lil Yachty,52,15,19-Oct-18,Nuthin' 2 Prove,4.0,229,15.266666666666667
+Lil Xan,49,16,6-Apr-18,Total Xanarchy,2.7,297,18.5625
+Lil Yachty,50,17,9-Mar-18,Lil Boat 2,5.3,372,21.88235294117647
+Post Malone,51,18,27-Apr-18,Beerbongs & Bentleys,6.3,125,6.944444444444445
+Lil Yachty,52,15,19-Oct-18,Nuthin' 2 Prove,4.0,242,16.133333333333333
 Greta Van Fleet,53,11,19-Oct-18,Anthem of the Peaceful Army,5.7,3,0.2727272727272727
 Justin Timberlake,55,16,2-Feb-18,Man of the Woods,6.1,18,1.125
 Derek Smalls,56,0,13-Apr-18,Smalls Change (Meditations Upon Ageing),tbd,0,0.0
@@ -314,8 +314,8 @@ Eric Clapton,57,16,12-Oct-18,Happy Xmas,tbd,0,0.0
 Miles Kane,57,10,10-Aug-18,Coup de Grace,7.6,0,0.0
 Dashboard Confessional,57,9,9-Feb-18,Crooked Shadows,6.2,5,0.5555555555555556
 Disturbed,58,14,19-Oct-18,Evolution,6.1,13,0.9285714285714286
-Nas,58,7,15-Jun-18,Nasir,7.8,28,4.0
-Fall Out Boy,59,10,19-Jan-18,Mania,5.9,18,1.8
+Nas,58,7,15-Jun-18,Nasir,7.8,29,4.142857142857143
+Fall Out Boy,59,10,19-Jan-18,Mania,5.9,16,1.6
 Richard Ashcroft,59,10,19-Oct-18,Natural Rebel,8.1,0,0.0
 Imagine Dragons,59,12,9-Nov-18,Origins,6.1,0,0.0
 The Kooks,59,15,31-Aug-18,Let's Go Sunshine,6.2,7,0.4666666666666667
@@ -325,7 +325,7 @@ Stone Temple Pilots,60,12,16-Mar-18,Stone Temple Pilots [2018],7.7,0,0.0
 Pale Waves,61,14,14-Sep-18,My Mind Makes Noises,6.3,3,0.21428571428571427
 George Ezra,61,11,23-Mar-18,Staying at Tamara's,7.9,4,0.36363636363636365
 Anne-Marie,62,18,27-Apr-18,Speak Your Mind,7.5,22,1.2222222222222223
-Eminem,62,13,31-Aug-18,Kamikaze,8.2,189,14.538461538461538
+Eminem,62,13,31-Aug-18,Kamikaze,8.2,161,12.384615384615385
 Gengahr,62,0,9-Mar-18,Where Wilderness Grows,8.1,0,0.0
 Tom Morello,63,12,12-Oct-18,The Atlas Underground,tbd,22,1.8333333333333333
 Kate Nash,63,14,30-Mar-18,Yesterday Was Forever,7.3,16,1.1428571428571428
@@ -333,8 +333,8 @@ The Men,63,9,2-Mar-18,Drift,7.2,0,0.0
 Nile Rodgers,63,10,28-Sep-18,It's About Time,7.5,4,0.4
 Kylie Minogue,63,17,6-Apr-18,Golden,7.7,7,0.4117647058823529
 Muse,63,21,9-Nov-18,Simulation Theory,6.8,0,0.0
-Kanye West,64,7,1-Jun-18,Ye,7.1,59,8.428571428571429
-Ministry,64,9,9-Mar-18,AmeriKKKant,5.9,6,0.6666666666666666
+Kanye West,64,7,1-Jun-18,Ye,7.1,62,8.857142857142858
+Ministry,64,9,9-Mar-18,AmeriKKKant,5.9,7,0.7777777777777778
 Snow Patrol,64,15,25-May-18,Wildness,7.7,34,2.2666666666666666
 Smashing Pumpkins,65,8,16-Nov-18,"Shiny and Oh So Bright, Vol. 1: No Past. No Future. No Sun",6.5,0,0.0
 We Are Scientists,65,10,27-Apr-18,Megaplex,tbd,1,0.1
@@ -347,19 +347,19 @@ Jungle,66,13,14-Sep-18,For Ever,7.8,2,0.15384615384615385
 Jeff Goldblum,66,0,9-Nov-18,The Capitol Studios Sessions,tbd,0,0.0
 Ty Segall,66,0,20-Jul-18,Joy,7.1,0,0.0
 Lake Street Dive,66,10,4-May-18,Free Yourself Up,6.8,0,0.0
-Tinashe,66,17,13-Apr-18,Joyride,7.9,24,1.411764705882353
+Tinashe,66,17,13-Apr-18,Joyride,7.9,25,1.4705882352941178
 Fischerspooner,67,13,16-Feb-18,Sir,7.5,12,0.9230769230769231
 The Coral,67,11,10-Aug-18,Move Through the Dawn,tbd,0,0.0
-Drake,67,25,29-Jun-18,Scorpion,3.9,170,6.8
+Drake,67,25,29-Jun-18,Scorpion,3.9,164,6.56
 Kyle Craft,67,10,2-Feb-18,Full Circle Nightmare,7.4,8,0.8
 Chromeo,67,12,15-Jun-18,Head Over Heels,7.7,17,1.4166666666666667
 Orbital,67,16,14-Sep-18,Monsters Exist,6.7,0,0.0
 Shy Boys,67,10,3-Aug-18,Bell House,tbd,0,0.0
 Jaakko Eino Kalevi,67,10,12-Oct-18,Out of Touch,tbd,0,0.0
 Ray Davies,67,19,29-Jun-18,"Our Country: Americana, Act 2",tbd,0,0.0
-A$AP Rocky,67,15,25-May-18,Testing,7.3,166,11.066666666666666
+A$AP Rocky,67,15,25-May-18,Testing,7.3,163,10.866666666666667
 The Voidz,68,15,30-Mar-18,Virtue,8.2,3,0.2
-Titus Andronicus,68,7,2-Mar-18,A Productive Cough,5.7,9,1.2857142857142858
+Titus Andronicus,68,7,2-Mar-18,A Productive Cough,5.7,10,1.4285714285714286
 MNEK,68,16,7-Sep-18,Language,8.1,7,0.4375
 Art Brut,68,12,23-Nov-18,Wham! Bang! Pow! Let's Rock Out!,7.0,5,0.4166666666666667
 Neil Finn,68,0,24-Aug-18,Lightsleeper,6.8,0,0.0
@@ -371,10 +371,10 @@ A Place to Bury Strangers,68,20,13-Apr-18,Pinned,7.4,11,0.55
 Dean Wareham,68,0,26-Oct-18,Dean Wareham vs. Cheval Sombre,tbd,0,0.0
 Josh Rouse,68,9,13-Apr-18,Love in the Modern Age,tbd,0,0.0
 Arthur Buck,68,11,15-Jun-18,Arthur Buck,tbd,0,0.0
-A Perfect Circle,68,12,20-Apr-18,Eat the Elephant,7.3,5,0.4166666666666667
+A Perfect Circle,68,12,20-Apr-18,Eat the Elephant,7.3,6,0.5
 Bonny Doon,68,10,23-Mar-18,Longwave,tbd,0,0.0
 Glen Hansard,68,10,19-Jan-18,Between Two Shores,7.3,0,0.0
-Noname,93,11,14-Sep-18,Room 25,8.4,57,5.181818181818182
+Noname,93,11,14-Sep-18,Room 25,8.4,59,5.363636363636363
 Rolo Tomassi,92,10,2-Mar-18,Time Will Die and Love Will Bury It,7.1,0,0.0
 Architects,90,11,9-Nov-18,Holy Hell,8.9,9,0.8181818181818182
 Robyn,89,9,26-Oct-18,Honey,8.5,7,0.7777777777777778
@@ -383,7 +383,7 @@ Christine and the Queens,89,11,21-Sep-18,Chris,7.9,12,1.0909090909090908
 Kacey Musgraves,89,13,30-Mar-18,Golden Hour,8.6,1,0.07692307692307693
 Rival Consoles,88,12,13-Apr-18,Persona,7.8,0,0.0
 Jeff Rosenstock,88,11,23-Mar-18,POST-,7.8,5,0.45454545454545453
-Idles,88,12,31-Aug-18,Joy As an Act of Resistance,8.2,17,1.4166666666666667
+Idles,88,12,31-Aug-18,Joy As an Act of Resistance,8.2,19,1.5833333333333333
 Behemoth,88,13,5-Oct-18,I Loved You at Your Darkest,8.0,5,0.38461538461538464
 Marianne Faithfull,88,13,2-Nov-18,Negative Capability,8.0,3,0.23076923076923078
 Janelle Monáe,87,0,27-Apr-18,Dirty Computer,8.6,0,0.0
@@ -392,13 +392,13 @@ Hookworms,87,9,2-Feb-18,Microshift,7.8,0,0.0
 Alela Diane,87,11,9-Feb-18,Cusp,8.0,0,0.0
 Objekt,87,0,9-Nov-18,Cocoon Crush,7.2,0,0.0
 Daughters,87,10,26-Oct-18,You Won't Get What You Want,8.6,10,1.0
-Mitski,87,14,17-Aug-18,Be the Cowboy,8.3,0,0.0
+Mitski,87,14,17-Aug-18,Be the Cowboy,8.3,1,0.07142857142857142
 Serpentwithfeet,87,11,8-Jun-18,Soil,7.9,2,0.18181818181818182
 U.S. Girls,87,11,16-Feb-18,In a Poem Unlimited,8.3,5,0.45454545454545453
-Young Fathers,87,13,9-Mar-18,Cocoa Sugar,8.7,14,1.0769230769230769
+Young Fathers,87,13,9-Mar-18,Cocoa Sugar,8.7,15,1.1538461538461537
 Amen Dunes,87,11,30-Mar-18,Freedom,8.2,0,0.0
-Kali Uchis,87,15,6-Apr-18,Isolation,8.6,6,0.4
-Bruce Springsteen,87,35,14-Dec-18,Springsteen on Broadway,7.8,42,1.2
+Kali Uchis,87,15,6-Apr-18,Isolation,8.6,7,0.4666666666666667
+Bruce Springsteen,87,35,14-Dec-18,Springsteen on Broadway,7.8,38,1.0857142857142856
 SOPHIE,86,9,15-Jun-18,Oil Of Every Pearl's Un-Insides,8.3,0,0.0
 Ashley Monroe,86,12,20-Apr-18,Sparrow,6.6,2,0.16666666666666666
 Tracyanne & Danny,86,10,25-May-18,Tracyanne & Danny,7.3,1,0.1
@@ -409,24 +409,24 @@ Mélissa Laveaux,86,0,23-Mar-18,Radyo Siwèl,tbd,0,0.0
 Low,86,11,14-Sep-18,Double Negative,8.0,5,0.45454545454545453
 Amanda Shires,86,10,3-Aug-18,To the Sunset,7.4,0,0.0
 Mount Eerie,86,12,21-Sep-18,(After) [Live],tbd,2,0.16666666666666666
-Pusha T,86,7,25-May-18,DAYTONA,8.5,54,7.714285714285714
+Pusha T,86,7,25-May-18,DAYTONA,8.5,58,8.285714285714286
 Jonny Greenwood,86,18,9-Feb-18,Phantom Thread [Original Motion Picture Soundtrack],8.0,0,0.0
 Earl Sweatshirt,86,15,30-Nov-18,Some Rap Songs,8.4,49,3.2666666666666666
 Screaming Females,86,15,23-Feb-18,All at Once,7.8,0,0.0
 DJ Koze,85,16,4-May-18,Knock Knock,8.0,3,0.1875
 Alva Noto,85,0,16-Feb-18,Glass,7.6,0,0.0
-BROCKHAMPTON,85,15,21-Sep-18,Iridescence,7.9,112,7.466666666666667
+BROCKHAMPTON,85,15,21-Sep-18,Iridescence,7.9,111,7.4
 Deafheaven,85,7,13-Jul-18,Ordinary Corrupt Human Love,8.0,0,0.0
 Marie Davidson,85,10,5-Oct-18,Working Class Woman,7.8,7,0.7
 Ezra Furman,85,13,9-Feb-18,Transangelic Exodus,8.0,7,0.5384615384615384
 Bettye LaVette,85,0,30-Mar-18,Things Have Changed,7.3,0,0.0
 Let's Eat Grandma,85,11,29-Jun-18,I'm All Ears,8.1,1,0.09090909090909091
 Neko Case,85,12,1-Jun-18,Hell-On,7.7,0,0.0
-Pistol Annies,85,14,2-Nov-18,Interstate Gospel,8.3,6,0.42857142857142855
+Pistol Annies,85,14,2-Nov-18,Interstate Gospel,8.3,7,0.5
 Sarah Davachi,85,0,14-Sep-18,Gave in Rest,tbd,0,0.0
 Laurie Anderson,85,30,16-Feb-18,Landfall,6.9,0,0.0
 Virginia Wing,85,10,8-Jun-18,Ecstatic Arrow,7.8,0,0.0
-Travis Scott,85,17,3-Aug-18,Astroworld,7.9,134,7.882352941176471
+Travis Scott,85,17,3-Aug-18,Astroworld,7.9,135,7.9411764705882355
 Troye Sivan,85,10,31-Aug-18,Bloom,8.1,5,0.5
 Spiritualized,84,9,7-Sep-18,And Nothing Hurt,7.8,0,0.0
 Jeff Tweedy,84,11,30-Nov-18,Warm,8.0,1,0.09090909090909091
@@ -434,12 +434,12 @@ No Age,84,12,26-Jan-18,Snares Like a Haircut,7.9,1,0.08333333333333333
 Richard Swift,84,11,21-Sep-18,The Hex,6.7,0,0.0
 Kids See Ghosts,84,7,8-Jun-18,Kids See Ghosts,8.6,13,1.8571428571428572
 Lonnie Holley,84,10,21-Sep-18,MITH,tbd,0,0.0
-Willie Nelson,84,11,27-Apr-18,Last Man Standing,7.7,18,1.6363636363636365
+Willie Nelson,84,11,27-Apr-18,Last Man Standing,7.7,11,1.0
 The Necks,84,0,17-Aug-18,Body,tbd,0,0.0
-CupcakKe,84,15,5-Jan-18,Ephorize,8.6,342,22.8
+CupcakKe,84,15,5-Jan-18,Ephorize,8.6,373,24.866666666666667
 Rolling Blackouts Coastal Fever,84,10,15-Jun-18,Hope Downs,8.0,0,0.0
 Proc Fiskal,84,0,8-Jun-18,Insula,tbd,0,0.0
-Cardi B,84,13,6-Apr-18,Invasion of Privacy,5.8,263,20.23076923076923
+Cardi B,84,13,6-Apr-18,Invasion of Privacy,5.8,285,21.923076923076923
 Jon Hopkins,84,12,4-May-18,Singularity,8.3,0,0.0
 Sleep,84,6,20-Apr-18,The Sciences,7.8,0,0.0
 Stephen Malkmus & the Jicks,84,11,18-May-18,Sparkle Hard,7.8,2,0.18181818181818182
@@ -453,12 +453,12 @@ The Chainsmokers,43,12,7-Apr-17,Memories: Do Not Open,2.0,14,1.1666666666666667
 Incubus,45,12,21-Apr-17,8,6.7,24,2.0
 Linkin Park,46,10,19-May-17,One More Light,5.2,2,0.2
 Imagine Dragons,47,11,23-Jun-17,Evolve,6.9,0,0.0
-Faith Evans and the Notorious B.I.G.,48,25,19-May-17,The King & I,6.7,99,3.96
-Eminem,50,19,15-Dec-17,Revival,6.3,135,7.105263157894737
+Faith Evans and the Notorious B.I.G.,48,25,19-May-17,The King & I,6.7,113,4.52
+Eminem,50,19,15-Dec-17,Revival,6.3,128,6.7368421052631575
 Katy Perry,52,17,9-Jun-17,Witness,7.0,17,1.0
-Prophets of Rage,54,12,15-Sep-17,Prophets of Rage,5.0,46,3.8333333333333335
+Prophets of Rage,54,12,15-Sep-17,Prophets of Rage,5.0,44,3.6666666666666665
 Ringo Starr,55,14,15-Sep-17,Give More Love,5.5,2,0.14285714285714285
-Lupe Fiasco,56,15,10-Feb-17,Drogas Light,6.5,212,14.133333333333333
+Lupe Fiasco,56,15,10-Feb-17,Drogas Light,6.5,217,14.466666666666667
 Foster the People,56,12,21-Jul-17,Sacred Hearts Club,7.9,0,0.0
 Miley Cyrus,58,11,29-Sep-17,Younger Now,7.0,8,0.7272727272727273
 Shania Twain,58,16,29-Sep-17,Now,6.4,1,0.0625
@@ -467,26 +467,26 @@ Morrissey,59,12,17-Nov-17,Low in High School,5.1,8,0.6666666666666666
 Amanda Palmer,60,0,5-May-17,I Can Spin a Rainbow,6.4,0,0.0
 Joan of Arc,60,11,20-Jan-17,He's Got the Whole This Land Is Your Land in His Hands,5.3,10,0.9090909090909091
 Danzig,61,9,26-May-17,Black Laden Crown,3.2,2,0.2222222222222222
-DJ Khaled,61,23,23-Jun-17,Grateful,3.7,134,5.826086956521739
+DJ Khaled,61,23,23-Jun-17,Grateful,3.7,153,6.6521739130434785
 Hype Williams,61,20,25-Aug-17,Rainbow Edition,tbd,0,0.0
 Hurts,61,14,29-Sep-17,Desire,6.5,0,0.0
 Horse Thief,62,0,27-Jan-17,Trials & Truths,tbd,0,0.0
 Cut Copy,62,10,22-Sep-17,Haiku from Zero,6.7,0,0.0
-P!nk,62,14,13-Oct-17,Beautiful Trauma,7.5,37,2.642857142857143
+P!nk,62,14,13-Oct-17,Beautiful Trauma,7.5,39,2.7857142857142856
 Ed Sheeran,62,17,3-Mar-17,Divide,4.5,5,0.29411764705882354
 The Dears,62,10,14-Jul-17,"Times Infinity, Vol. 2",tbd,2,0.2
 Macklemore,63,16,22-Sep-17,Gemini,6.3,78,4.875
 TLC,63,13,30-Jun-17,TLC,6.2,15,1.1538461538461537
-Yung Lean,63,14,10-Nov-17,Stranger,7.8,51,3.642857142857143
-Lil Yachty,63,23,26-May-17,Teenage Emotions,3.9,309,13.434782608695652
+Yung Lean,63,14,10-Nov-17,Stranger,7.8,57,4.071428571428571
+Lil Yachty,63,23,26-May-17,Teenage Emotions,3.9,347,15.08695652173913
 U2,63,17,1-Dec-17,Songs of Experience,7.0,5,0.29411764705882354
-Lunice,63,11,8-Sep-17,CCCLX,tbd,14,1.2727272727272727
+Lunice,63,11,8-Sep-17,CCCLX,tbd,15,1.3636363636363635
 Weezer,64,10,27-Oct-17,Pacific Daydream,5.3,2,0.2
 The Amazons,64,11,26-May-17,The Amazons,7.4,0,0.0
 Wu-Tang,64,18,13-Oct-17,The Saga Continues,8.2,134,7.444444444444445
 Minus the Bear,64,10,3-Mar-17,Voids,8.0,1,0.1
 Rag 'n' Bone Man,64,19,10-Feb-17,Human,6.1,0,0.0
-Body Count,64,11,31-Mar-17,Bloodlust,6.9,109,9.909090909090908
+Body Count,64,11,31-Mar-17,Bloodlust,6.9,107,9.727272727272727
 Nelly Furtado,64,16,31-Mar-17,The Ride,8.5,2,0.125
 Mike Oldfield,64,0,27-Jan-17,Return to Ommadawn,8.3,0,0.0
 Fifth Harmony,64,12,25-Aug-17,Fifth Harmony,7.3,28,2.3333333333333335
@@ -498,8 +498,8 @@ Death from Above,65,0,8-Sep-17,Outrage! Is Now,7.6,0,0.0
 Charles Hayward,65,0,17-Nov-17,Improvisations,tbd,0,0.0
 Thievery Corporation,65,15,10-Feb-17,Temple of I & I,6.3,5,0.3333333333333333
 Goldie,65,0,16-Jun-17,The Journey Man,tbd,0,0.0
-Logic,65,13,5-May-17,Everybody,6.5,216,16.615384615384617
-Sun Kil Moon,65,16,24-Feb-17,Common as Light and Love Are Red Valleys of Blood,8.2,118,7.375
+Logic,65,13,5-May-17,Everybody,6.5,220,16.923076923076923
+Sun Kil Moon,65,16,24-Feb-17,Common as Light and Love Are Red Valleys of Blood,8.2,117,7.3125
 Todd Rundgren,66,15,12-May-17,White Knight,tbd,11,0.7333333333333333
 The Isley Brothers,66,0,28-Jul-17,Power of Peace,tbd,0,0.0
 The Telescopes,66,0,7-Jul-17,As Light Return,tbd,0,0.0
@@ -518,17 +518,17 @@ Maxïmo Park,67,0,21-Apr-17,Risk To Exist,7.3,0,0.0
 Surfer Blood,67,9,3-Feb-17,Snowdonia,7.0,0,0.0
 Little Dragon,67,10,14-Apr-17,Season High,7.5,2,0.2
 You Me at Six,67,10,6-Jan-17,Night People,7.2,1,0.1
-Future,67,20,17-Feb-17,Future,6.4,276,13.8
-Big Sean,67,14,3-Feb-17,I Decided.,7.0,151,10.785714285714286
+Future,67,20,17-Feb-17,Future,6.4,301,15.05
+Big Sean,67,14,3-Feb-17,I Decided.,7.0,148,10.571428571428571
 Sohn,67,10,13-Jan-17,Rennen,7.1,0,0.0
 London Grammar,68,18,9-Jun-17,Truth Is a Beautiful Thing,8.4,12,0.6666666666666666
 Neil Young,68,10,1-Dec-17,The Visitor,6.3,0,0.0
 The Orwells,68,13,17-Feb-17,Terrible Human Beings,7.9,6,0.46153846153846156
-Kendrick Lamar,95,14,14-Apr-17,DAMN.,8.4,161,11.5
+Kendrick Lamar,95,14,14-Apr-17,DAMN.,8.4,163,11.642857142857142
 Mount Eerie,93,11,24-Mar-17,A Crow Looked at Me,8.0,1,0.09090909090909091
-Lorde,91,11,16-Jun-17,Melodrama,8.8,22,2.0
+Lorde,91,11,16-Jun-17,Melodrama,8.8,23,2.090909090909091
 Converge,89,13,3-Nov-17,The Dusk in Us,7.6,3,0.23076923076923078
-Creeper,89,11,24-Mar-17,"Eternity, In Your Arms",7.6,2,0.18181818181818182
+Creeper,89,11,24-Mar-17,"Eternity, In Your Arms",7.6,1,0.09090909090909091
 Jlin,89,12,19-May-17,Black Origami,7.1,0,0.0
 Vince Staples,89,12,23-Jun-17,Big Fish Theory,8.3,39,3.25
 Valerie June,89,12,10-Mar-17,The Order of Time,7.9,0,0.0
@@ -541,7 +541,7 @@ Charly Bliss,87,10,21-Apr-17,Guppy,7.9,0,0.0
 Arca,87,14,7-Apr-17,Arca,8.1,0,0.0
 Circuit des Yeux,87,8,20-Oct-17,Reaching for Indigo,7.2,0,0.0
 The Horrors,87,12,22-Sep-17,V,8.2,0,0.0
-SZA,86,15,9-Jun-17,CTRL,8.8,61,4.066666666666666
+SZA,86,15,9-Jun-17,CTRL,8.8,66,4.4
 Power Trip,86,8,24-Feb-17,Nightmare Logic,7.7,2,0.25
 Vijay Iyer,86,1,25-Aug-17,Far from Over,tbd,0,0.0
 The Replacements,86,4,6-Oct-17,For Sale: Live at Maxwell's 1986,7.7,0,0.0
@@ -567,24 +567,24 @@ The Weather Station,85,11,6-Oct-17,The Weather Station,6.7,1,0.09090909090909091
 Father John Misty,85,14,7-Apr-17,Pure Comedy,7.9,16,1.1428571428571428
 Ryuichi Sakamoto,85,14,28-Apr-17,async,7.7,0,0.0
 Pwr Bttm,85,13,12-May-17,Pageant,5.5,19,1.4615384615384615
-Young Thug,84,14,16-Jun-17,Beautiful Thugger Girls,7.7,146,10.428571428571429
+Young Thug,84,14,16-Jun-17,Beautiful Thugger Girls,7.7,162,11.571428571428571
 Aimee Mann,84,13,31-Mar-17,Mental Illness,7.8,1,0.07692307692307693
 Godflesh,84,10,17-Nov-17,Post Self,tbd,0,0.0
 Karine Polwart,84,0,17-Nov-17,A Pocket of Wind Resistance,tbd,0,0.0
-"Tyler, The Creator",84,14,21-Jul-17,Flower Boy,8.7,115,8.214285714285714
+"Tyler, The Creator",84,14,21-Jul-17,Flower Boy,8.7,118,8.428571428571429
 Seamus Fogarty,84,1,6-Oct-17,The Curious Hand,tbd,0,0.0
-Alan Vega,84,9,14-Jul-17,It,tbd,12,1.3333333333333333
+Alan Vega,84,9,14-Jul-17,It,tbd,14,1.5555555555555556
 Laurel Halo,84,12,23-Jun-17,Dust,7.7,1,0.08333333333333333
 Perfume Genius,84,13,5-May-17,No Shape,8.4,0,0.0
 Juana Molina,84,13,5-May-17,Halo,7.9,0,0.0
 Loyle Carner,84,15,20-Jan-17,Yesterday's Gone,8.4,23,1.5333333333333334
 Robert Plant,84,11,13-Oct-17,Carry Fire,8.1,0,0.0
-J Hus,84,18,12-May-17,Common Sense,8.2,50,2.7777777777777777
+J Hus,84,18,12-May-17,Common Sense,8.2,53,2.9444444444444446
 Juliana Hatfield,84,14,28-Apr-17,Pussycat,7.0,14,1.0
 Nadia Reid,84,10,3-Mar-17,Preservation,8.0,4,0.4
 William Basinski,84,2,20-Jan-17,A Shadow in Time,7.5,0,0.0
 Kelela,84,14,6-Oct-17,Take Me Apart,8.3,9,0.6428571428571429
-Wiley,84,17,13-Jan-17,Godfather,8.1,25,1.4705882352941178
+Wiley,84,17,13-Jan-17,Godfather,8.1,24,1.411764705882353
 Vagabon,84,8,24-Feb-17,Infinite Worlds,7.9,1,0.125
 Songhoy Blues,84,12,16-Jun-17,Resistance,7.0,0,0.0
 Jane Weaver,84,10,19-May-17,Modern Kosmology,7.5,0,0.0
@@ -603,19 +603,19 @@ Charlie Puth,37,13,29-Jan-16,Nine Track Mind,4.6,1,0.07692307692307693
 Various Artists,48,15,18-Mar-16,Star Wars Headspace,4.2,0,0.0
 Richard Ashcroft,51,10,20-May-16,These People,7.5,0,0.0
 Bloc Party,55,15,29-Jan-16,Hymns,5.5,14,0.9333333333333333
-Die Antwoord,55,16,16-Sep-16,Mount Ninji and Da Nice Time Kid,6.2,212,13.25
+Die Antwoord,55,16,16-Sep-16,Mount Ninji and Da Nice Time Kid,6.2,207,12.9375
 MSTRKRFT,55,10,22-Jul-16,Operator,tbd,0,0.0
 Fitz & the Tantrums,56,12,10-Jun-16,Fitz and the Tantrums,4.4,7,0.5833333333333334
-Wiz Khalifa,56,13,5-Feb-16,Khalifa,5.0,206,15.846153846153847
+Wiz Khalifa,56,13,5-Feb-16,Khalifa,5.0,212,16.307692307692307
 Neil Young,57,10,9-Dec-16,Peace Trail,4.6,2,0.2
 Benji Hughes,57,12,29-Jan-16,Songs in the Key of Animals,tbd,0,0.0
 Thom Sonny Green,57,21,19-Aug-16,High Anxiety,tbd,0,0.0
 Kula Shaker,58,12,12-Feb-16,K 2.0,tbd,4,0.3333333333333333
 Choir of Young Believers,59,12,19-Feb-16,Grasque,tbd,0,0.0
 Jake Bugg,59,11,17-Jun-16,On My One,6.9,1,0.09090909090909091
-Macklemore & Ryan Lewis,59,19,26-Feb-16,This Unruly Mess I've Made,6.1,85,4.473684210526316
+Macklemore & Ryan Lewis,59,19,26-Feb-16,This Unruly Mess I've Made,6.1,84,4.421052631578948
 Kaiser Chiefs,59,12,7-Oct-16,Stay Together,6.2,14,1.1666666666666667
-Robbie Williams,59,16,4-Nov-16,Heavy Entertainment Show,8.4,24,1.5
+Robbie Williams,59,16,4-Nov-16,Heavy Entertainment Show,8.4,25,1.5625
 Simple Minds,59,0,11-Nov-16,Simple Minds Acoustic,tbd,0,0.0
 Mr. Oizo,59,15,30-Sep-16,All Wet,7.5,0,0.0
 Travis,60,10,29-Apr-16,Everything at Once,7.3,1,0.1
@@ -631,7 +631,7 @@ Mono,62,0,14-Oct-16,Requiem for Hell,tbd,0,0.0
 Steven Tyler,62,15,15-Jul-16,We're All Somebody from Somewhere,7.3,8,0.5333333333333333
 Gwen Stefani,62,18,18-Mar-16,This Is What the Truth Feels Like,7.8,16,0.8888888888888888
 Yuck,62,11,26-Feb-16,Stranger Things,6.5,0,0.0
-Various Artists,62,3,29-Jul-16,Quiero Creedence,tbd,0,0.0
+Various Artists,62,3,29-Jul-16,Quiero Creedence,tbd,2,0.6666666666666666
 Spectres,62,0,15-Apr-16,Dead,tbd,0,0.0
 Kings of Leon,62,10,14-Oct-16,Walls,6.6,0,0.0
 Deadmau5,63,14,2-Dec-16,W:/2016ALBUM/,6.7,0,0.0
@@ -650,10 +650,10 @@ Ronnie Spector,64,14,8-Apr-16,English Heart,tbd,0,0.0
 Still Corners,64,11,16-Sep-16,Dead Blue,tbd,0,0.0
 Balance & Composure,64,10,7-Oct-16,Light We Made,8.2,2,0.2
 Conrad Keely,64,24,22-Jan-16,Original Machines,tbd,1,0.041666666666666664
-Travis Scott,64,14,2-Sep-16,Birds In The Trap Sing McKnight,7.7,104,7.428571428571429
+Travis Scott,64,14,2-Sep-16,Birds In The Trap Sing McKnight,7.7,106,7.571428571428571
 The Pop Group,64,0,28-Oct-16,Honeymoon on Mars,5.6,0,0.0
 Jack Garratt,64,19,19-Feb-16,Phase,7.4,0,0.0
-M.I.A.,65,19,9-Sep-16,AIM,8.1,20,1.0526315789473684
+M.I.A.,65,19,9-Sep-16,AIM,8.1,21,1.105263157894737
 Malcolm Middleton,65,10,27-May-16,Summer of '13,tbd,1,0.1
 The Chris Robinson Brotherhood,65,8,29-Jul-16,"Anyway You Love, We Know How You Feel",tbd,1,0.125
 The Strumbellas,65,11,22-Apr-16,Hope,5.6,1,0.09090909090909091
@@ -670,24 +670,24 @@ Peter Bjorn and John,66,12,10-Jun-16,Breakin' Point,6.8,1,0.08333333333333333
 Edward Sharpe & the Magnetic Zeros,66,10,15-Apr-16,PersonA,7.6,5,0.5
 Guided by Voices,66,15,22-Apr-16,Please Be Honest,4.5,0,0.0
 M83,66,16,8-Apr-16,Junk,7.9,1,0.0625
-2 Chainz,66,13,4-Mar-16,Collegrove,7.4,283,21.76923076923077
-Good Charlotte,66,16,15-Jul-16,Youth Authority,6.4,18,1.125
+2 Chainz,66,13,4-Mar-16,Collegrove,7.4,306,23.53846153846154
+Good Charlotte,66,16,15-Jul-16,Youth Authority,6.4,19,1.1875
 Gonjasufi,66,3,19-Aug-16,Callus,tbd,3,1.0
 La Sera,66,10,4-Mar-16,Music For Listening To Music To,tbd,1,0.1
 Nick Cave & the Bad Seeds,95,8,9-Sep-16,Skeleton Tree,8.3,1,0.125
 Beyoncé,92,0,23-Apr-16,Lemonade,7.8,0,0.0
 Leonard Cohen,92,10,21-Oct-16,You Want It Darker,8.3,0,0.0
-A Tribe Called Quest,91,17,11-Nov-16,We Got It From Here...Thank You 4 Your Service,8.7,143,8.411764705882353
-Chance the Rapper,89,14,13-May-16,Coloring Book [Mixtape],8.3,87,6.214285714285714
+A Tribe Called Quest,91,17,11-Nov-16,We Got It From Here...Thank You 4 Your Service,8.7,145,8.529411764705882
+Chance the Rapper,89,14,13-May-16,Coloring Book [Mixtape],8.3,91,6.5
 Solange,89,21,30-Sep-16,A Seat at the Table,8.4,32,1.5238095238095237
 Drive-By Truckers,88,11,30-Sep-16,American Band,7.9,3,0.2727272727272727
 Radiohead,88,13,8-May-16,A Moon Shaped Pool,8.9,0,0.0
-Run the Jewels,88,14,25-Dec-16,Run the Jewels 3,8.7,151,10.785714285714286
-Common,88,15,4-Nov-16,Black America Again,7.2,12,0.8
+Run the Jewels,88,14,25-Dec-16,Run the Jewels 3,8.7,148,10.571428571428571
+Common,88,15,4-Nov-16,Black America Again,7.2,14,0.9333333333333333
 Robbie Fulks,87,12,1-Apr-16,Upland Stories,4.2,1,0.08333333333333333
-David Bowie,87,8,8-Jan-16,Blackstar,8.8,18,2.25
+David Bowie,87,8,8-Jan-16,Blackstar,8.8,19,2.375
 Angel Olsen,87,10,2-Sep-16,My Woman,8.5,1,0.1
-Frank Ocean,87,17,20-Aug-16,Blonde,8.8,93,5.470588235294118
+Frank Ocean,87,17,20-Aug-16,Blonde,8.8,99,5.823529411764706
 Mitski,87,12,17-Jun-16,Puberty 2,8.6,0,0.0
 NAILS,87,0,17-Jun-16,You Will Never Be One of Us,6.6,0,0.0
 Bon Iver,87,10,30-Sep-16,"22, A Million",8.3,6,0.6
@@ -701,11 +701,11 @@ The Dillinger Escape Plan,86,11,14-Oct-16,Dissociation,8.1,8,0.7272727272727273
 Margo Price,86,10,25-Mar-16,Midwest Farmer's Daughter,7.9,6,0.6
 William Bell,86,12,3-Jun-16,This Is Where I Live,8.2,0,0.0
 Teho Teardo,86,0,22-Apr-16,Nerissimo,7.2,0,0.0
-Kendrick Lamar,86,8,4-Mar-16,untitled unmastered.,8.4,57,7.125
+Kendrick Lamar,86,8,4-Mar-16,untitled unmastered.,8.4,58,7.25
 Paul Simon,85,16,3-Jun-16,Stranger to Stranger,8.0,5,0.3125
 Neurosis,85,5,23-Sep-16,Fires Within Fires,7.3,0,0.0
-Anderson .Paak,85,17,15-Jan-16,Malibu,8.6,56,3.2941176470588234
-Danny Brown,85,16,27-Sep-16,Atrocity Exhibition,8.7,150,9.375
+Anderson .Paak,85,17,15-Jan-16,Malibu,8.6,54,3.176470588235294
+Danny Brown,85,16,27-Sep-16,Atrocity Exhibition,8.7,154,9.625
 The Hotelier,85,13,27-May-16,Goodness,7.8,1,0.07692307692307693
 Aesop Rock,85,18,29-Apr-16,The Impossible Kid,8.6,45,2.5
 John K. Samson,85,15,21-Oct-16,Winter Wheat,8.3,0,0.0
@@ -714,7 +714,7 @@ Kate Bush,84,29,2-Dec-16,Before the Dawn [Live],8.4,5,0.1724137931034483
 Esperanza Spalding,84,14,4-Mar-16,Emily's D+Evolution,7.8,3,0.21428571428571427
 Nels Cline,84,18,5-Aug-16,Lovers,7.2,0,0.0
 Loretta Lynn,84,14,4-Mar-16,Full Circle,7.5,1,0.07142857142857142
-Kate Tempest,84,13,7-Oct-16,Let Them Eat Chaos,7.9,19,1.4615384615384615
+Kate Tempest,84,13,7-Oct-16,Let Them Eat Chaos,7.9,18,1.3846153846153846
 Touche Amore,84,12,16-Sep-16,Stage Four,8.1,0,0.0
 Virginia Wing,84,10,11-Nov-16,Forward Constant Motion,tbd,0,0.0
 Pinegrove,84,9,12-Feb-16,Cardinal,8.1,3,0.3333333333333333
@@ -722,19 +722,19 @@ Jenny Hval,84,12,30-Sep-16,Blood Bitch,8.0,2,0.16666666666666666
 BJ the Chicago Kid,84,15,19-Feb-16,In My Mind,7.3,44,2.933333333333333
 Karl Blau,84,10,13-May-16,Introducing Karl Blau,6.6,0,0.0
 Anna Meredith,84,11,4-Mar-16,Varmints,7.7,0,0.0
-Little Simz,84,16,16-Dec-16,Stillness In Wonderland,8.4,88,5.5
+Little Simz,84,16,16-Dec-16,Stillness In Wonderland,8.4,90,5.625
 Helen Money,84,8,16-Sep-16,Become Zero,tbd,0,0.0
 Moodymann,83,0,19-Feb-16,DJ-Kicks,7.6,0,0.0
 Lambchop,83,11,4-Nov-16,FLOTUS,8.1,1,0.09090909090909091
 Bob Mould,83,12,25-Mar-16,Patch the Sky,7.4,1,0.08333333333333333
-Skepta,83,14,6-May-16,Konnichiwa,7.8,73,5.214285714285714
+Skepta,83,14,6-May-16,Konnichiwa,7.8,71,5.071428571428571
 Colin Stetson,83,0,8-Apr-16,Sorrow: Reimagining of Gorecki's 3rd Symphony,7.8,0,0.0
 Andy Shauf,83,10,20-May-16,The Party,8.6,7,0.7
 Whitney,83,11,3-Jun-16,Light Upon the Lake,8.7,0,0.0
 Kyle Dixon,83,36,12-Aug-16,"Stranger Things, Vol. 1 [Original Television Series Soundtrack]",8.3,0,0.0
 King Gizzard & the Lizard Wizard,83,10,29-Apr-16,Nonagon Infinity,8.7,6,0.6
 Neko Case,83,0,17-Jun-16,case/lang/veirs,7.9,0,0.0
-YG,83,17,17-Jun-16,Still Brazy,8.5,371,21.823529411764707
+YG,83,17,17-Jun-16,Still Brazy,8.5,382,22.470588235294116
 The Avalanches,83,24,8-Jul-16,Wildflower,8.3,50,2.0833333333333335
 Damien Jurado,83,17,18-Mar-16,Visions of Us on the Land,8.1,0,0.0
 Lucinda Williams,83,14,5-Feb-16,The Ghosts of Highway 20,7.5,6,0.42857142857142855
@@ -759,7 +759,7 @@ Anti-Flag,54,15,26-May-15,American Spring,5.5,10,0.6666666666666666
 Giorgio Moroder,54,15,12-Jun-15,Déjà-Vu,6.2,3,0.2
 Zac Brown Band,55,16,28-Apr-15,Jekyll + Hyde,6.1,3,0.1875
 Kylie Minogue,55,16,13-Nov-15,Kylie Christmas,7.0,1,0.0625
-Kid Ink,55,16,3-Feb-15,Full Speed,4.8,124,7.75
+Kid Ink,55,16,3-Feb-15,Full Speed,4.8,134,8.375
 Lieutenant,56,0,10-Mar-15,If I Kill This Thing We're All Going to Eat for a Week,tbd,0,0.0
 Todd Rundgren,57,12,7-Apr-15,Global,7.0,3,0.25
 Cee Lo Green,57,15,13-Nov-15,Heart Blanche,5.4,0,0.0
@@ -771,29 +771,29 @@ The Wombats,58,13,14-Apr-15,Glitterbug,6.7,7,0.5384615384615384
 James Bay,58,15,24-Mar-15,Chaos and the Calm,7.4,1,0.06666666666666667
 Bullet For My Valentine,58,15,14-Aug-15,Venom,7.2,29,1.9333333333333333
 Diana Krall,58,16,3-Feb-15,Wallflower,6.9,0,0.0
-Meghan Trainor,59,15,13-Jan-15,Title,6.1,11,0.7333333333333333
-Method Man,59,19,21-Aug-15,The Meth Lab,4.6,145,7.631578947368421
+Meghan Trainor,59,15,13-Jan-15,Title,6.1,12,0.8
+Method Man,59,19,21-Aug-15,The Meth Lab,4.6,149,7.842105263157895
 Peace,59,18,9-Feb-15,Happy People,7.4,3,0.16666666666666666
 Coldplay,60,13,4-Dec-15,A Head Full of Dreams,6.8,1,0.07692307692307693
-R. Kelly,60,20,11-Dec-15,The Buffet,5.7,154,7.7
-Ciara,60,11,4-May-15,Jackie,6.3,50,4.545454545454546
+R. Kelly,60,20,11-Dec-15,The Buffet,5.7,163,8.15
+Ciara,60,11,4-May-15,Jackie,6.3,51,4.636363636363637
 Imagine Dragons,60,13,17-Feb-15,Smoke + Mirrors,7.6,2,0.15384615384615385
-Ne-Yo,60,23,27-Jan-15,Non-Fiction,6.5,54,2.347826086956522
+Ne-Yo,60,23,27-Jan-15,Non-Fiction,6.5,58,2.5217391304347827
 Gang of Four,60,10,24-Feb-15,What Happens Next,6.0,1,0.1
-Miley Cyrus,60,23,30-Aug-15,Miley Cyrus & Her Dead Petz,6.9,81,3.5217391304347827
+Miley Cyrus,60,23,30-Aug-15,Miley Cyrus & Her Dead Petz,6.9,78,3.391304347826087
 Neil Young,61,9,29-Jun-15,The Monsanto Years,5.8,1,0.1111111111111111
 Kid Rock,61,11,24-Feb-15,First Kiss,2.2,17,1.5454545454545454
 Ringo Starr,61,11,31-Mar-15,Postcards from Paradise,6.1,2,0.18181818181818182
 Hurts,61,14,9-Oct-15,Surrender,7.4,1,0.07142857142857142
 JEFF the Brotherhood,61,11,24-Mar-15,Wasted on the Dream,tbd,1,0.09090909090909091
-Lil Durk,61,12,2-Jun-15,Remember My Name,7.7,249,20.75
+Lil Durk,61,12,2-Jun-15,Remember My Name,7.7,260,21.666666666666668
 The Zombies,61,10,9-Oct-15,Still Got That Hunger,tbd,3,0.3
 Nate Ruess,61,12,16-Jun-15,Grand Romantic,5.2,1,0.08333333333333333
 Laura Welsh,61,11,10-Mar-15,Soft Control,6.9,1,0.09090909090909091
 Funeral For A Friend,61,12,19-Jan-15,Chapter & Verse,5.3,10,0.8333333333333334
 The Strypes,61,6,24-Jul-15,Little Victories,8.0,0,0.0
-Rick Ross,61,17,4-Dec-15,Black Market,6.6,205,12.058823529411764
-Iron And Wine & Ben Bridwell,61,12,17-Jul-15,Sing Into My Mouth,6.8,0,0.0
+Rick Ross,61,17,4-Dec-15,Black Market,6.6,224,13.176470588235293
+Iron And Wine & Ben Bridwell,61,12,17-Jul-15,Sing Into My Mouth,6.8,1,0.08333333333333333
 Surfer Blood,62,11,12-May-15,1000 Palms,6.6,0,0.0
 Joss Stone,62,15,31-Jul-15,Water for Your Soul,6.4,1,0.06666666666666667
 MS MR,62,12,17-Jul-15,How Does It Feel,7.1,0,0.0
@@ -807,24 +807,24 @@ Todd Rundgren,63,0,4-May-15,Runddans,tbd,0,0.0
 Liturgy,63,10,24-Mar-15,The Ark Work,7.7,0,0.0
 Of Monsters and Men,63,15,9-Jun-15,Beneath the Skin,7.8,0,0.0
 Prince,63,12,12-Dec-15,HITnRUN: Phase Two,6.4,1,0.08333333333333333
-Ludacris,63,20,31-Mar-15,Ludaversal,6.8,162,8.1
+Ludacris,63,20,31-Mar-15,Ludaversal,6.8,174,8.7
 And So I Watch You from Afar,63,10,5-May-15,Heirs,8.1,0,0.0
 Tanlines,63,10,19-May-15,Highlights,5.2,0,0.0
 Kelly Clarkson,63,13,3-Mar-15,Piece by Piece,5.4,9,0.6923076923076923
-Raekwon,63,14,28-Apr-15,Fly International Luxurious Art,6.8,118,8.428571428571429
+Raekwon,63,14,28-Apr-15,Fly International Luxurious Art,6.8,123,8.785714285714286
 Nosaj Thing,63,15,4-May-15,Fated,4.9,1,0.06666666666666667
 Stereophonics,63,13,11-Sep-15,Keep the Village Alive,7.9,3,0.23076923076923078
 Radkey,63,13,21-Aug-15,Dark Black Makeup,7.4,4,0.3076923076923077
-The Darkness,63,14,2-Jun-15,Last of Our Kind,7.7,6,0.42857142857142855
+The Darkness,63,14,2-Jun-15,Last of Our Kind,7.7,5,0.35714285714285715
 Justin Bieber,63,23,13-Nov-15,Purpose,6.2,2,0.08695652173913043
-Travis Scott,64,14,4-Sep-15,Rodeo,8.5,215,15.357142857142858
+Travis Scott,64,14,4-Sep-15,Rodeo,8.5,223,15.928571428571429
 Soulsavers,64,8,4-Dec-15,Kubrick,tbd,0,0.0
 Estelle,64,12,17-Feb-15,True Romance,6.4,12,1.0
 Briana Marela,64,9,21-Aug-15,All Around Us,tbd,0,0.0
 Vetiver,64,10,24-Mar-15,Complete Strangers,7.3,0,0.0
 Little Boots,64,14,10-Jul-15,Working Girl,8.3,0,0.0
 Duran Duran,64,15,11-Sep-15,Paper Gods,7.2,1,0.06666666666666667
-Kendrick Lamar,96,17,16-Mar-15,To Pimp a Butterfly,8.8,189,11.117647058823529
+Kendrick Lamar,96,17,16-Mar-15,To Pimp a Butterfly,8.8,185,10.882352941176471
 Sufjan Stevens,90,12,31-Mar-15,Carrie & Lowell,8.9,2,0.16666666666666666
 Sleater-Kinney,90,11,20-Jan-15,No Cities to Love,8.2,0,0.0
 Napalm Death,89,15,27-Jan-15,Apex Predator - Easy Meat,7.2,1,0.06666666666666667
@@ -832,19 +832,19 @@ Sam Lee,89,1,16-Mar-15,The Fade in Time,5.6,0,0.0
 Steven Wilson,89,11,3-Mar-15,Hand.Cannot.Erase.,8.7,2,0.18181818181818182
 Joanna Newsom,88,12,23-Oct-15,Divers,8.2,1,0.08333333333333333
 Courtney Barnett,88,13,24-Mar-15,"Sometimes I Sit And Think, And Sometimes I Just Sit",8.5,3,0.23076923076923078
-Bring Me the Horizon,88,11,11-Sep-15,That's the Spirit,7.0,24,2.1818181818181817
+Bring Me the Horizon,88,11,11-Sep-15,That's the Spirit,7.0,21,1.9090909090909092
 Mbongwana Star,88,0,19-May-15,From Kinshasa,5.3,0,0.0
 Grimes,88,15,11-Dec-15,Art Angels,8.9,3,0.2
 James McMurtry,87,12,24-Feb-15,Complicated Game,8.2,6,0.5
 Julia Holter,87,10,25-Sep-15,Have You in My Wilderness,8.6,0,0.0
-Jason Isbell,87,11,17-Jul-15,Something More Than Free,8.2,3,0.2727272727272727
+Jason Isbell,87,11,17-Jul-15,Something More Than Free,8.2,4,0.36363636363636365
 John Howard & The Night Mail,87,1,21-Aug-15,John Howard & the Night Mail,7.6,0,0.0
 Susanne Sundfør,87,0,16-Feb-15,Ten Love Songs,8.9,0,0.0
 Hiatus Kaiyote,87,18,4-May-15,Choose Your Weapon,8.5,0,0.0
 Hop Along,87,10,4-May-15,Painted Shut,8.4,2,0.2
-Vince Staples,87,20,30-Jun-15,Summertime '06,8.6,120,6.0
+Vince Staples,87,20,30-Jun-15,Summertime '06,8.6,123,6.15
 Björk,87,0,20-Jan-15,Vulnicura,8.8,0,0.0
-Father John Misty,87,12,10-Feb-15,"I Love You, Honeybear",8.6,11,0.9166666666666666
+Father John Misty,87,12,10-Feb-15,"I Love You, Honeybear",8.6,12,1.0
 Various Artists,87,11,26-May-15,Remembering Mountains: Unheard Songs By Karen Dalton,7.2,1,0.09090909090909091
 Jamie xx,87,13,2-Jun-15,In Colour,8.7,10,0.7692307692307693
 Dave Rawlings Machine,87,7,18-Sep-15,Nashville Obsolete,7.1,0,0.0
@@ -854,16 +854,16 @@ Ashley Monroe,86,13,24-Jul-15,The Blade,8.1,8,0.6153846153846154
 Drive-By Truckers,86,0,30-Oct-15,It's Great to Be Alive! [Live],8.7,0,0.0
 Various Artists,86,0,30-Oct-15,Joy of Living: A Tribute to Ewan Maccoll,tbd,0,0.0
 Jim O'Rourke,86,8,19-May-15,Simple Songs,8.4,0,0.0
-Donnie Trumpet & The Social Experiment,86,16,29-May-15,Surf,8.2,25,1.5625
+Donnie Trumpet & The Social Experiment,86,16,29-May-15,Surf,8.2,31,1.9375
 Destroyer,86,14,28-Aug-15,Poison Season,8.0,32,2.2857142857142856
 Protomartyr,85,12,9-Oct-15,The Agent Intellect,8.2,0,0.0
-Jazmine Sullivan,85,12,13-Jan-15,Reality Show,8.7,33,2.75
+Jazmine Sullivan,85,12,13-Jan-15,Reality Show,8.7,36,3.0
 Christine and the Queens,85,12,16-Oct-15,Christine and the Queens,8.8,0,0.0
 The Weather Station,85,11,12-May-15,Loyalty,tbd,0,0.0
 Baroness,85,10,18-Dec-15,Purple,8.6,2,0.2
 Joan Shelley,85,0,4-Sep-15,Over and Even,tbd,0,0.0
 Bassekou Kouyate & Ngoni Ba,85,0,12-May-15,Ba Power,6.3,0,0.0
-Pusha T,85,12,18-Dec-15,King Push - Darkest Before Dawn: The Prelude,8.4,141,11.75
+Pusha T,85,12,18-Dec-15,King Push - Darkest Before Dawn: The Prelude,8.4,149,12.416666666666666
 Floating Points,85,8,6-Nov-15,Elaenia,8.5,0,0.0
 C Duncan,85,12,17-Jul-15,Architect,tbd,0,0.0
 Deafheaven,85,5,2-Oct-15,New Bermuda,8.7,5,1.0
@@ -876,7 +876,7 @@ Haiku Salut,84,0,31-Jul-15,Etch And Etch Deep,7.0,0,0.0
 Bop English,84,6,14-Apr-15,Constant Bop,8.1,1,0.16666666666666666
 Eric Church,84,10,3-Nov-15,Mr. Misunderstood,7.8,14,1.4
 Allison Moorer,84,13,17-Mar-15,Down to Believing,tbd,1,0.07692307692307693
-Miguel,84,16,29-Jun-15,Wildheart,8.4,58,3.625
+Miguel,84,16,29-Jun-15,Wildheart,8.4,36,2.25
 Tame Impala,84,13,17-Jul-15,Currents,8.8,4,0.3076923076923077
 Dwight Yoakam,84,12,14-Apr-15,Second Hand Heart,8.2,1,0.08333333333333333
 Godspeed You! Black Emperor,84,4,31-Mar-15,"Asunder, Sweet and Other Distress",8.1,0,0.0
@@ -899,14 +899,14 @@ Visionist,83,0,9-Oct-15,Safe,tbd,0,0.0
 Ryley Walker,83,4,31-Mar-15,Primrose Green,8.4,0,0.0
 Locrian,83,0,24-Jul-15,Infinite Dissolution,tbd,0,0.0
 Kurt Vile,83,13,25-Sep-15,B'lieve I'm Goin' Down,7.5,6,0.46153846153846156
-Jennifer Lopez,45,16,17-Jun-14,A.K.A.,5.6,33,2.0625
+Jennifer Lopez,45,16,17-Jun-14,A.K.A.,5.6,39,2.4375
 Lea Michele,48,11,4-Mar-14,Louder,7.7,5,0.45454545454545453
 Robin Thicke,49,14,1-Jul-14,Paula,1.4,3,0.21428571428571427
-David Guetta,51,17,24-Nov-14,Listen,5.4,2,0.11764705882352941
-50 Cent,53,14,3-Jun-14,Animal Ambition: An Untamed Desire to Win,6.0,227,16.214285714285715
+David Guetta,51,17,24-Nov-14,Listen,5.4,3,0.17647058823529413
+50 Cent,53,14,3-Jun-14,Animal Ambition: An Untamed Desire to Win,6.0,238,17.0
 Yes,53,8,22-Jul-14,Heaven & Earth,4.3,2,0.25
-Rick Ross,54,19,24-Nov-14,Hood Billionaire,2.3,309,16.263157894736842
-Wiz Khalifa,54,18,19-Aug-14,Blacc Hollywood,5.4,199,11.055555555555555
+Rick Ross,54,19,24-Nov-14,Hood Billionaire,2.3,332,17.473684210526315
+Wiz Khalifa,54,18,19-Aug-14,Blacc Hollywood,5.4,211,11.722222222222221
 Jason Aldean,54,18,7-Oct-14,"Old Boots, New Dirt",4.2,6,0.3333333333333333
 John Frusciante,55,11,8-Apr-14,Enclosure,7.5,2,0.18181818181818182
 Cold War Kids,55,11,21-Oct-14,Hold My Home,7.6,1,0.09090909090909091
@@ -915,7 +915,7 @@ Dog Bite,56,0,21-Jan-14,Tranquilizers,5.3,0,0.0
 The Jezabels,56,10,18-Feb-14,The Brink,7.7,1,0.1
 Nina Nesbitt,56,20,17-Feb-14,Peroxide,6.1,3,0.15
 Jessie J,56,16,14-Oct-14,Sweet Talker,5.2,10,0.625
-Iggy Azalea,56,15,22-Apr-14,The New Classic,6.4,132,8.8
+Iggy Azalea,56,15,22-Apr-14,The New Classic,6.4,133,8.866666666666667
 Brad Paisley,56,15,25-Aug-14,Moonshine in the Trunk,6.8,5,0.3333333333333333
 Calvin Harris,57,15,4-Nov-14,Motion,6.9,14,0.9333333333333333
 Neon Trees,58,11,22-Apr-14,Pop Psychology,7.6,7,0.6363636363636364
@@ -927,23 +927,23 @@ Klaxons,58,11,16-Jun-14,Love Frequency,6.1,0,0.0
 Pink Floyd,58,21,10-Nov-14,The Endless River,7.5,1,0.047619047619047616
 The Flaming Lips,59,13,28-Oct-14,With a Little Help from My Fwends,4.7,0,0.0
 Dan Croll,59,12,1-Apr-14,Sweet Disarray,7.8,0,0.0
-Skrillex,59,11,18-Mar-14,Recess,5.6,167,15.181818181818182
+Skrillex,59,11,18-Mar-14,Recess,5.6,168,15.272727272727273
 Clean Bandit,59,15,17-Jun-14,New Eyes,8.4,1,0.06666666666666667
 Kaiser Chiefs,59,12,1-Apr-14,"Education, Education, Education & War",7.1,6,0.5
-The Orwells,60,11,3-Jun-14,Disgraceland,6.9,3,0.2727272727272727
+The Orwells,60,11,3-Jun-14,Disgraceland,6.9,5,0.45454545454545453
 Lia Ices,60,3,16-Sep-14,Ices,tbd,0,0.0
-Wu-Tang Clan,60,15,2-Dec-14,A Better Tomorrow,6.7,72,4.8
+Wu-Tang Clan,60,15,2-Dec-14,A Better Tomorrow,6.7,76,5.066666666666666
 Kid Cudi,60,10,25-Feb-14,Satellite Flight: The Journey to Mother Moon,6.9,13,1.3
-Lily Allen,60,18,6-May-14,Sheezus,7.0,81,4.5
+Lily Allen,60,18,6-May-14,Sheezus,7.0,82,4.555555555555555
 George Michael,60,17,18-Mar-14,Symphonica,8.7,3,0.17647058823529413
 Neil Young,60,10,4-Nov-14,Storytone,5.3,1,0.1
 David Shrigley,60,0,15-Dec-14,Music and Words,tbd,0,0.0
 Santana,60,0,6-May-14,Corazón,2.3,0,0.0
 The Kooks,60,15,2-Sep-14,Listen,6.0,0,0.0
 Foxes,61,16,11-Mar-14,Glorious,8.1,0,0.0
-Die Antwoord,61,16,3-Jun-14,Donker Mag,7.2,274,17.125
-RiFF RAFF,61,18,24-Jun-14,Neon Icon,6.6,73,4.055555555555555
-Les Claypool's Duo De Twang,61,15,4-Feb-14,Four Foot Shack,tbd,6,0.4
+Die Antwoord,61,16,3-Jun-14,Donker Mag,7.2,264,16.5
+RiFF RAFF,61,18,24-Jun-14,Neon Icon,6.6,80,4.444444444444445
+Les Claypool's Duo De Twang,61,15,4-Feb-14,Four Foot Shack,tbd,10,0.6666666666666666
 Primus,61,14,21-Oct-14,Primus & the Chocolate Factory with the Fungi Ensemble,8.6,1,0.07142857142857142
 Echo & the Bunnymen,61,10,3-Jun-14,Meteorites,6.8,0,0.0
 Coldplay,61,9,19-May-14,Ghost Stories,7.3,0,0.0
@@ -963,7 +963,7 @@ Damaged Bug,63,11,25-Feb-14,Hubba Bubba,tbd,1,0.09090909090909091
 Passenger,63,18,10-Jun-14,Whispers,7.4,5,0.2777777777777778
 Porter Robinson,63,13,12-Aug-14,Worlds,8.8,0,0.0
 Various Artists,63,12,7-Jan-14,Peter Gabriel Tribute Album: And I'll Scratch Yours,7.0,3,0.25
-Chris Brown,63,22,16-Sep-14,X,7.1,67,3.0454545454545454
+Chris Brown,63,22,16-Sep-14,X,7.1,69,3.1363636363636362
 Young Magic,63,0,6-May-14,Breathing Statues,tbd,0,0.0
 The Vines,63,20,2-Sep-14,Wicked Nature,7.6,4,0.2
 Eugene McGuinness,63,10,7-Jul-14,Chroma,tbd,2,0.2
@@ -971,18 +971,18 @@ Kiesza,63,14,21-Oct-14,Sound of a Woman,6.1,5,0.35714285714285715
 Aloe Blacc,64,13,11-Mar-14,Lift Your Spirit,4.3,4,0.3076923076923077
 Lo-Fang,64,11,25-Feb-14,Blue Film,7.1,3,0.2727272727272727
 Blood Red Shoes,64,16,3-Mar-14,Blood Red Shoes,7.2,3,0.1875
-Sage Francis,64,15,3-Jun-14,Copper Gone,8.2,56,3.7333333333333334
+Sage Francis,64,15,3-Jun-14,Copper Gone,8.2,60,4.0
 Lady Gaga,64,0,23-Sep-14,Cheek to Cheek,8.5,0,0.0
 Bass Drum of Death,64,10,7-Oct-14,Rip This,tbd,2,0.2
-D'Angelo,95,12,15-Dec-14,Black Messiah,8.7,4,0.3333333333333333
+D'Angelo,95,12,15-Dec-14,Black Messiah,8.7,5,0.4166666666666667
 Behemoth,92,10,4-Feb-14,The Satanist,8.5,6,0.6
-The Hotelier,91,9,25-Feb-14,"Home, Like Noplace Is There",8.4,4,0.4444444444444444
+The Hotelier,91,9,25-Feb-14,"Home, Like Noplace Is There",8.4,5,0.5555555555555556
 St. Vincent,89,15,25-Feb-14,St. Vincent,8.6,2,0.13333333333333333
 Run the Jewels,89,0,27-Oct-14,RTJ2,8.7,0,0.0
 Swans,88,11,13-May-14,To Be Kind,8.7,29,2.6363636363636362
 Pallbearer,88,8,19-Aug-14,Foundations of Burden,8.0,0,0.0
 La Dispute,88,11,18-Mar-14,Rooms of the House,8.4,1,0.09090909090909091
-Big K.R.I.T.,88,18,10-Nov-14,Cadillactica,8.8,201,11.166666666666666
+Big K.R.I.T.,88,18,10-Nov-14,Cadillactica,8.8,205,11.38888888888889
 Flying Lotus,88,22,7-Oct-14,You're Dead!,8.6,15,0.6818181818181818
 Rosanne Cash,87,14,14-Jan-14,The River & the Thread,7.5,1,0.07142857142857142
 Perfume Genius,87,11,23-Sep-14,Too Bright,8.3,2,0.18181818181818182
@@ -992,7 +992,7 @@ Sharon Van Etten,86,11,27-May-14,Are We There,8.6,6,0.5454545454545454
 Aphex Twin,86,14,23-Sep-14,Syro,8.1,11,0.7857142857142857
 Miranda Lambert,86,16,3-Jun-14,Platinum,8.1,22,1.375
 FKA twigs,86,12,12-Aug-14,LP1,8.5,13,1.0833333333333333
-Indian,86,4,21-Jan-14,From All Purity,7.7,1,0.25
+Indian,86,4,21-Jan-14,From All Purity,7.7,3,0.75
 Wild Beasts,86,11,25-Feb-14,Present Tense,8.4,6,0.5454545454545454
 Leonard Cohen,86,9,23-Sep-14,Popular Problems,7.9,2,0.2222222222222222
 The War on Drugs,86,10,18-Mar-14,Lost In the Dream,8.7,3,0.3
@@ -1012,10 +1012,10 @@ Ben Frost,84,9,27-May-14,A U R O R A,7.8,0,0.0
 Shellac,84,9,16-Sep-14,Dude Incredible,7.7,6,0.6666666666666666
 Ought,84,8,29-Apr-14,More Than Any Other Day,8.6,3,0.375
 Lee Fields,84,11,3-Jun-14,Emma Jean,8.3,1,0.09090909090909091
-Angaleena Presley,84,12,14-Oct-14,American Middle Class,tbd,18,1.5
+Angaleena Presley,84,12,14-Oct-14,American Middle Class,tbd,19,1.5833333333333333
 Strand of Oaks,83,10,24-Jun-14,Heal,8.1,2,0.2
 Electric Wizard,83,9,30-Sep-14,Time to Die,7.7,6,0.6666666666666666
-The Bug,83,12,26-Aug-14,Angels & Devils,7.2,67,5.583333333333333
+The Bug,83,12,26-Aug-14,Angels & Devils,7.2,68,5.666666666666667
 Marissa Nadler,83,11,4-Feb-14,July,8.6,2,0.18181818181818182
 Clark,83,13,4-Nov-14,Clark,8.2,0,0.0
 Andy Stott,83,9,18-Nov-14,Faith in Strangers,8.2,0,0.0
@@ -1026,7 +1026,7 @@ Douglas Dare,83,10,13-May-14,Whelm,8.7,0,0.0
 Moodymann,83,1,27-Jan-14,Moodymann,6.6,3,3.0
 Total Control,83,6,24-Jun-14,Typical System,7.0,0,0.0
 Lucinda Williams,83,20,30-Sep-14,Down Where the Spirit Meets the Bone,8.3,15,0.75
-Protomartyr,83,14,8-Apr-14,Under Color of Official Right,8.3,4,0.2857142857142857
+Protomartyr,83,14,8-Apr-14,Under Color of Official Right,8.3,5,0.35714285714285715
 tUnE-yArDs,83,13,6-May-14,Nikki Nack,8.0,3,0.23076923076923078
 Sunn O))),83,1,21-Oct-14,Soused,7.4,0,0.0
 PUP,83,10,8-Apr-14,PUP,8.2,0,0.0
@@ -1035,7 +1035,7 @@ Manic Street Preachers,83,20,7-Jul-14,Futurology,8.3,4,0.2
 Mr Twin Sister,83,8,23-Sep-14,Mr Twin Sister,7.9,0,0.0
 Sidiki Diabate,83,0,19-May-14,Toumani & Sidiki,tbd,0,0.0
 Carla Bozulich,83,3,4-Mar-14,Boy,6.0,0,0.0
-Against Me!,82,10,21-Jan-14,Transgender Dysphoria Blues,8.0,14,1.4
+Against Me!,82,10,21-Jan-14,Transgender Dysphoria Blues,8.0,17,1.7
 The Soft Pink Truth,82,1,17-Jun-14,Why Do the Heathen Rage?,tbd,3,3.0
 Reigning Sound,82,11,15-Jul-14,Shattered,7.6,1,0.09090909090909091
 Joyce Manor,82,10,22-Jul-14,Never Hungover Again,8.3,7,0.7
@@ -1051,25 +1051,25 @@ Vashti Bunyan,82,10,7-Oct-14,Heartleap,8.7,0,0.0
 Freddie Gibbs,82,0,18-Mar-14,Piñata,8.6,0,0.0
 Megadeth,41,13,4-Jun-13,Super Collider,5.3,6,0.46153846153846156
 Black Flag,42,1,3-Dec-13,What The...,4.1,1,1.0
-LL Cool J,46,16,30-Apr-13,Authentic,4.0,25,1.5625
+LL Cool J,46,16,30-Apr-13,Authentic,4.0,26,1.625
 Kodaline,47,15,8-Oct-13,In a Perfect World,6.8,2,0.13333333333333333
 Boston,47,11,3-Dec-13,Life Love & Hope,7.5,1,0.09090909090909091
-The Neighbourhood,48,11,23-Apr-13,I Love You,7.6,7,0.6363636363636364
+The Neighbourhood,48,11,23-Apr-13,I Love You,7.6,6,0.5454545454545454
 James Blunt,49,22,5-Nov-13,Moon Landing,7.6,8,0.36363636363636365
 Johnny Borrell,49,0,22-Jul-13,Borrell 1,tbd,0,0.0
-will.i.am,49,18,23-Apr-13,#willpower,2.6,132,7.333333333333333
-Tyga,50,18,9-Apr-13,Hotel California,3.8,391,21.72222222222222
+will.i.am,49,18,23-Apr-13,#willpower,2.6,133,7.388888888888889
+Tyga,50,18,9-Apr-13,Hotel California,3.8,419,23.27777777777778
 Bon Jovi,50,17,12-Mar-13,What About Now,5.5,4,0.23529411764705882
 Britney Spears,50,14,3-Dec-13,Britney Jean,6.0,23,1.6428571428571428
-Devlin,51,13,4-Feb-13,A Moving Picture,4.8,27,2.076923076923077
-Lil Wayne,51,20,26-Mar-13,I Am Not a Human Being II,3.7,534,26.7
-Dizzee Rascal,51,16,30-Sep-13,The Fifth,2.5,88,5.5
+Devlin,51,13,4-Feb-13,A Moving Picture,4.8,28,2.1538461538461537
+Lil Wayne,51,20,26-Mar-13,I Am Not a Human Being II,3.7,593,29.65
+Dizzee Rascal,51,16,30-Sep-13,The Fifth,2.5,93,5.8125
 Todd Rundgren,53,18,9-Apr-13,State,tbd,4,0.2222222222222222
 Snoop Lion,53,16,23-Apr-13,Reincarnated,5.4,4,0.25
 The Ruby Suns,54,10,29-Jan-13,Christopher,tbd,3,0.3
 CSS,54,11,11-Jun-13,Planta,7.3,7,0.6363636363636364
 The D.O.T.,54,2,6-May-13,Diary,tbd,0,0.0
-French Montana,54,23,21-May-13,Excuse My French,4.1,448,19.47826086956522
+French Montana,54,23,21-May-13,Excuse My French,4.1,484,21.043478260869566
 Editors,55,14,9-Jul-13,The Weight of Your Love,6.8,0,0.0
 Reverend and the Makers,55,10,5-Mar-13,@Reverend_Makers,7.5,3,0.3
 Ocean Colour Scene,55,14,11-Feb-13,Painting,tbd,6,0.42857142857142855
@@ -1083,8 +1083,8 @@ Keep Shelly in Athens,57,13,17-Sep-13,At Home,tbd,0,0.0
 Grouplove,57,16,17-Sep-13,Spreading Rumours,7.8,1,0.0625
 Eric Clapton,58,12,12-Mar-13,Old Sock,tbd,0,0.0
 Crystal Fighters,58,10,28-May-13,Cave Rave,7.9,1,0.1
-Robbie Williams,58,16,18-Nov-13,Swings Both Ways,8.2,7,0.4375
-Kid Cudi,58,18,16-Apr-13,Indicud,6.6,129,7.166666666666667
+Robbie Williams,58,16,18-Nov-13,Swings Both Ways,8.2,8,0.5
+Kid Cudi,58,18,16-Apr-13,Indicud,6.6,144,8.0
 Theme Park,58,10,25-Feb-13,Theme Park,tbd,0,0.0
 Bastille,58,19,4-Mar-13,Bad Blood,7.9,4,0.21052631578947367
 Tom Odell,58,15,24-Jun-13,Long Way Down,7.8,3,0.2
@@ -1109,13 +1109,13 @@ Minks,59,10,6-Aug-13,Tides End,7.8,0,0.0
 Selena Gomez,59,18,23-Jul-13,Stars Dance,6.5,0,0.0
 Small Black,60,10,14-May-13,Limits of Desire,8.1,0,0.0
 Jay-Z,60,18,4-Jul-13,Magna Carta Holy Grail,6.0,190,10.555555555555555
-Bullet For My Valentine,60,15,12-Feb-13,Temper Temper,5.8,10,0.6666666666666666
+Bullet For My Valentine,60,15,12-Feb-13,Temper Temper,5.8,13,0.8666666666666667
 Har Mar Superstar,60,9,23-Apr-13,Bye Bye 17,tbd,1,0.1111111111111111
 MS MR,60,12,14-May-13,Secondhand Rapture,7.9,7,0.5833333333333334
 Backstreet Boys,60,16,30-Jul-13,In a World Like This,7.9,1,0.0625
 Moby,60,12,30-Sep-13,Innocents,7.6,0,0.0
 Bad Religion,60,9,29-Oct-13,Christmas Songs,7.5,2,0.2222222222222222
-Justin Timberlake,60,15,30-Sep-13,The 20/20 Experience 2 of 2,8.2,38,2.533333333333333
+Justin Timberlake,60,15,30-Sep-13,The 20/20 Experience 2 of 2,8.2,36,2.4
 Unknown Mortal Orchestra,60,5,29-Oct-13,Blue Record [EP],7.6,1,0.2
 Atlas Genius,61,14,19-Feb-13,When It Was Now,8.8,2,0.14285714285714285
 Katy Perry,61,17,22-Oct-13,Prism,6.6,5,0.29411764705882354
@@ -1148,7 +1148,7 @@ Wayne Shorter,86,0,5-Feb-13,Without a Net,5.6,0,0.0
 Killer Mike,86,0,26-Jun-13,Run the Jewels,8.5,0,0.0
 Laura Marling,86,16,28-May-13,Once I Was an Eagle,8.6,9,0.5625
 The Mavericks,86,13,26-Feb-13,In Time,8.0,0,0.0
-Chance the Rapper,86,13,30-Apr-13,Acid Rap,8.7,184,14.153846153846153
+Chance the Rapper,86,13,30-Apr-13,Acid Rap,8.7,185,14.23076923076923
 Hiss Golden Messenger,86,11,2-Apr-13,Haw,8.3,0,0.0
 The Knife,85,17,9-Apr-13,Shaking the Habitual,8.4,3,0.17647058823529413
 William Tyler,85,8,19-Mar-13,Impossible Truth,7.2,0,0.0
@@ -1165,7 +1165,7 @@ Various Artists,84,32,5-Nov-13,Divided & United: Songs of the Civil War,tbd,0,0.
 Coliseum,84,13,30-Apr-13,Sister Faith,tbd,0,0.0
 The National,84,14,21-May-13,Trouble Will Find Me,8.7,2,0.14285714285714285
 The Haxan Cloak,84,9,16-Apr-13,Excavation,8.6,0,0.0
-Kanye West,84,10,18-Jun-13,Yeezus,7.6,133,13.3
+Kanye West,84,10,18-Jun-13,Yeezus,7.6,140,14.0
 Mikal Cronin,84,10,7-May-13,MCII,8.4,2,0.2
 Bombino,84,9,2-Apr-13,Nomad,8.3,0,0.0
 Neko Case,84,15,3-Sep-13,"The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You",8.1,8,0.5333333333333333
@@ -1175,7 +1175,7 @@ Bill Callahan,84,8,17-Sep-13,Dream River,8.2,0,0.0
 Roy Harper,84,0,23-Sep-13,Man and Myth,tbd,0,0.0
 Kvelertak,84,11,26-Mar-13,Meir,8.1,1,0.09090909090909091
 Voivod,84,10,22-Jan-13,Target Earth,7.2,1,0.1
-Danny Brown,83,20,8-Oct-13,Old,8.4,219,10.95
+Danny Brown,83,20,8-Oct-13,Old,8.4,223,11.15
 Superchunk,83,11,20-Aug-13,I Hate Music,8.0,1,0.09090909090909091
 Patty Griffin,83,14,8-Oct-13,Silver Bell,7.4,6,0.42857142857142855
 DJ Koze,83,6,2-Apr-13,Amygdala,8.0,0,0.0
@@ -1197,10 +1197,10 @@ Jon Hopkins,82,8,4-Jun-13,Immunity,8.6,0,0.0
 Bilal,82,13,26-Feb-13,A Love Surreal,8.5,6,0.46153846153846156
 Yo La Tengo,82,10,15-Jan-13,Fade,8.2,0,0.0
 Lady Lamb the Beekeeper,82,12,19-Feb-13,Ripely Pine,8.8,2,0.16666666666666666
-Earl Sweatshirt,82,15,20-Aug-13,Doris,8.3,186,12.4
+Earl Sweatshirt,82,15,20-Aug-13,Doris,8.3,185,12.333333333333334
 John Grant,82,11,14-May-13,Pale Green Ghosts,8.5,13,1.1818181818181819
-Chris Brown,38,22,3-Jul-12,Fortune,3.3,85,3.8636363636363638
-Kreayshawn,42,13,17-Sep-12,Somethin' 'Bout Kreay,6.9,112,8.615384615384615
+Chris Brown,38,22,3-Jul-12,Fortune,3.3,84,3.8181818181818183
+Kreayshawn,42,13,17-Sep-12,Somethin' 'Bout Kreay,6.9,138,10.615384615384615
 Meat Loaf,44,12,13-Mar-12,Hell in a Handbasket,3.5,4,0.3333333333333333
 Santana,45,13,15-May-12,Shape Shifter,tbd,0,0.0
 WZRD,50,11,28-Feb-12,WZRD,7.1,7,0.6363636363636364
@@ -1217,25 +1217,25 @@ James Iha,54,15,17-Sep-12,Look to the Sky,tbd,0,0.0
 Maroon 5,54,16,26-Jun-12,Overexposed,5.0,13,0.8125
 Flo Rida,54,14,3-Jul-12,Wild Ones,2.4,11,0.7857142857142857
 Alanis Morissette,55,20,28-Aug-12,Havoc and Bright Lights,6.8,3,0.15
-Labrinth,55,15,2-Apr-12,Electronic Earth,5.9,18,1.2
+Labrinth,55,15,2-Apr-12,Electronic Earth,5.9,16,1.0666666666666667
 Dog Is Dead,55,15,8-Oct-12,All Our Favourite Stories,tbd,5,0.3333333333333333
-2 Chainz,55,18,14-Aug-12,Based on a T.R.U. Story,4.8,208,11.555555555555555
+2 Chainz,55,18,14-Aug-12,Based on a T.R.U. Story,4.8,221,12.277777777777779
 Pop Levi,55,1,13-Nov-12,Medicine,tbd,3,3.0
-The Internet,55,14,31-Jan-12,Purple Naked Ladies,6.9,21,1.5
+The Internet,55,14,31-Jan-12,Purple Naked Ladies,6.9,24,1.7142857142857142
 The Temper Trap,56,15,5-Jun-12,The Temper Trap,6.9,2,0.13333333333333333
 Christina Aguilera,56,16,13-Nov-12,Lotus,7.4,28,1.75
 The Fray,56,15,7-Feb-12,Scars & Stories,8.0,0,0.0
-Wiz Khalifa,56,21,4-Dec-12,O.N.I.F.C.,5.1,258,12.285714285714286
+Wiz Khalifa,56,21,4-Dec-12,O.N.I.F.C.,5.1,260,12.380952380952381
 Lostprophets,56,17,19-Jun-12,Weapons,5.9,3,0.17647058823529413
 Marina and the Diamonds,57,17,10-Jul-12,Electra Heart,8.5,107,6.294117647058823
-Die Antwoord,57,13,7-Feb-12,Ten$ion,5.8,183,14.076923076923077
+Die Antwoord,57,13,7-Feb-12,Ten$ion,5.8,170,13.076923076923077
 YOKOKIMTHURSTON,57,0,25-Sep-12,YOKOKIMTHURSTON,4.5,0,0.0
 Matchbox Twenty,57,17,4-Sep-12,North,8.4,5,0.29411764705882354
 Nelly Furtado,57,20,18-Sep-12,The Spirit Indestructible,7.0,1,0.05
 Calvin Harris,57,15,30-Oct-12,18 Months,7.2,5,0.3333333333333333
 Joe Walsh,57,11,5-Jun-12,Analog Man,8.0,5,0.45454545454545453
 Snow Patrol,58,14,10-Jan-12,Fallen Empires,8.2,0,0.0
-Monica,58,16,10-Apr-12,New Life,4.5,8,0.5
+Monica,58,16,10-Apr-12,New Life,4.5,10,0.625
 Flats,58,0,31-Jul-12,Better Living,tbd,0,0.0
 Mike Patton,58,0,24-Jul-12,Luciano Berio: Laborintus II,tbd,0,0.0
 Alex Clare,58,0,8-May-12,Lateness of the Hour,6.8,0,0.0
@@ -1243,7 +1243,7 @@ Joe Jackson,59,5,26-Jun-12,The Duke,tbd,0,0.0
 Electric Guest,59,10,24-Apr-12,Mondo,8.4,1,0.1
 The Phenomenal Handclap Band,59,3,14-Feb-12,Form & Control,tbd,0,0.0
 Clock Opera,59,12,23-Apr-12,Ways To Forget,7.8,2,0.16666666666666666
-Deadmau5,59,15,25-Sep-12,>Album Title Goes Here<,7.5,10,0.6666666666666666
+Deadmau5,59,15,25-Sep-12,>Album Title Goes Here<,7.5,16,1.0666666666666667
 Marilyn Manson,59,14,1-May-12,Born Villain,7.5,49,3.5
 Matt & Kim,59,10,2-Oct-12,Lightning,7.0,2,0.2
 The Cranberries,59,13,28-Feb-12,Roses,7.6,1,0.07692307692307693
@@ -1261,10 +1261,10 @@ Joss Stone,60,16,31-Jul-12,"The Soul Sessions, Vol. 2",6.6,0,0.0
 The Big Pink,60,10,16-Jan-12,Future This,6.0,1,0.1
 Kaiser Chiefs,60,0,6-Mar-12,Start the Revolution Without Me,6.4,0,0.0
 Lindstrøm,60,0,7-Feb-12,Six Cups of Rebel,6.5,0,0.0
-Nicki Minaj,60,24,3-Apr-12,Pink Friday: Roman Reloaded,6.1,228,9.5
+Nicki Minaj,60,24,3-Apr-12,Pink Friday: Roman Reloaded,6.1,275,11.458333333333334
 Teen Daze,60,0,5-Jun-12,"All of Us, Together",tbd,0,0.0
 Linkin Park,60,12,26-Jun-12,Living Things,7.8,1,0.08333333333333333
-The Presets,61,11,11-Sep-12,Pacifica,8.2,11,1.0
+The Presets,61,11,11-Sep-12,Pacifica,8.2,12,1.0909090909090908
 Sleepy Sun,61,7,10-Apr-12,Spine Hits,tbd,1,0.14285714285714285
 Joey Ramone,61,13,22-May-12,...Ya Know?,tbd,2,0.15384615384615385
 The Orb,61,2,28-Aug-12,The Orbserver in the Star House,tbd,0,0.0
@@ -1273,19 +1273,19 @@ Goatwhore,61,10,14-Feb-12,Blood for the Master,tbd,7,0.7
 No Doubt,61,12,25-Sep-12,Push and Shove,7.7,0,0.0
 Ben Folds Five,61,10,18-Sep-12,The Sound of the Life of the Mind,7.7,4,0.4
 Oneida,61,0,13-Nov-12,A List of the Burning Mountains,tbd,0,0.0
-Rihanna,61,15,19-Nov-12,Unapologetic,6.8,20,1.3333333333333333
+Rihanna,61,15,19-Nov-12,Unapologetic,6.8,22,1.4666666666666666
 Wadada Leo Smith,99,0,22-May-12,Ten Freedom Summers,4.6,0,0.0
 The Menzingers,93,13,21-Feb-12,On the Impossible Past,7.9,26,2.0
 Frank Ocean,92,18,17-Jul-12,Channel Orange,8.9,24,1.3333333333333333
-Kendrick Lamar,91,12,22-Oct-12,"Good Kid, M.A.A.D City",8.8,205,17.083333333333332
-Fiona Apple,89,12,19-Jun-12,The Idler Wheel Is Wiser than the Driver of the Screw and Whipping Cords Will Serve You More than Ropes Will Ever Do,8.9,1,0.08333333333333333
+Kendrick Lamar,91,12,22-Oct-12,"Good Kid, M.A.A.D City",8.8,209,17.416666666666668
+Fiona Apple,89,12,19-Jun-12,The Idler Wheel Is Wiser than the Driver of the Screw and Whipping Cords Will Serve You More than Ropes Will Ever Do,8.9,2,0.16666666666666666
 Vijay Iyer Trio,88,0,13-Mar-12,Accelerando,6.7,0,0.0
 Tame Impala,88,14,9-Oct-12,Lonerism,8.9,4,0.2857142857142857
 Sweet Billy Pilgrim,88,2,16-Apr-12,Crown and Treaty,tbd,0,0.0
 Converge,88,17,9-Oct-12,All We Love We Leave Behind,8.8,1,0.058823529411764705
 Moritz von Oswald Trio,87,0,3-Jul-12,Fetch,6.2,0,0.0
 Shackleton,87,0,4-Dec-12,Music For the Quiet Hour/The Drawbar Organ EPs,7.2,0,0.0
-Swans,87,11,28-Aug-12,The Seer,8.5,3,0.2727272727272727
+Swans,87,11,28-Aug-12,The Seer,8.5,4,0.36363636363636365
 Goat,87,3,20-Aug-12,World Music,7.8,0,0.0
 Staff Benda Bilili,87,0,4-Sep-12,Bouger le Monde!,tbd,0,0.0
 Pig Destroyer,86,26,22-Oct-12,Book Burner,7.5,14,0.5384615384615384
@@ -1307,10 +1307,10 @@ Led Zeppelin,85,0,19-Nov-12,Celebration Day [Live],8.5,0,0.0
 Matthew E. White,85,7,21-Aug-12,Big Inner,8.6,5,0.7142857142857143
 Brad Mehldau Trio,85,0,20-Mar-12,Ode,tbd,0,0.0
 Goldfrapp,85,14,7-Feb-12,The Singles,8.4,2,0.14285714285714285
-Killer Mike,85,13,15-May-12,R.A.P. Music,8.5,133,10.23076923076923
+Killer Mike,85,13,15-May-12,R.A.P. Music,8.5,136,10.461538461538462
 Mount Eerie,85,8,4-Sep-12,Ocean Roar,8.4,0,0.0
-Azealia Banks,84,4,12-Jun-12,1991 [EP],8.7,89,22.25
-El-P,84,13,22-May-12,Cancer4Cure,8.5,107,8.23076923076923
+Azealia Banks,84,4,12-Jun-12,1991 [EP],8.7,96,24.0
+El-P,84,13,22-May-12,Cancer4Cure,8.5,109,8.384615384615385
 Jamey Johnson,84,11,16-Oct-12,Living for a Song: A Tribute to Hank Cochran,tbd,0,0.0
 Rebecca Ferguson,84,14,29-May-12,Heaven,8.7,2,0.14285714285714285
 Monolake,84,0,13-Mar-12,Ghosts,tbd,0,0.0
@@ -1321,18 +1321,18 @@ Torche,83,13,24-Apr-12,Harmonicraft,8.3,0,0.0
 TNGHT,83,5,24-Jul-12,TNGHT [EP],8.8,0,0.0
 The Evens,83,9,19-Nov-12,The Odds,7.9,2,0.2222222222222222
 Screaming Females,83,14,3-Apr-12,Ugly,8.2,5,0.35714285714285715
-Swans,83,15,29-May-12,We Rose from Your Bed with the Sun in Our Head [Live],8.4,3,0.2
+Swans,83,15,29-May-12,We Rose from Your Bed with the Sun in Our Head [Live],8.4,4,0.26666666666666666
 Bob Dylan,83,10,11-Sep-12,Tempest,7.7,8,0.8
-Ab-Soul,83,18,11-May-12,Control System,8.7,287,15.944444444444445
-Jack White,83,13,24-Apr-12,Blunderbuss,8.5,6,0.46153846153846156
+Ab-Soul,83,18,11-May-12,Control System,8.7,294,16.333333333333332
+Jack White,83,13,24-Apr-12,Blunderbuss,8.5,5,0.38461538461538464
 Flying Lotus,83,19,2-Oct-12,Until the Quiet Comes,8.2,0,0.0
 The Men,83,10,6-Mar-12,Open Your Heart,8.2,2,0.2
 Cloud Nothings,83,8,24-Jan-12,Attack On Memory,8.8,0,0.0
 Yellowcard,83,12,14-Aug-12,Southern Air,8.8,0,0.0
-Plan B,83,28,21-Aug-12,Ill Manors,8.4,82,2.9285714285714284
+Plan B,83,28,21-Aug-12,Ill Manors,8.4,81,2.892857142857143
 Martin Rossiter,83,9,3-Dec-12,The Defenestration of St. Martin,7.9,0,0.0
 Father John Misty,83,12,1-May-12,Fear Fun,8.3,2,0.16666666666666666
-Roc Marciano,83,18,13-Nov-12,Reloaded,7.0,125,6.944444444444445
+Roc Marciano,83,18,13-Nov-12,Reloaded,7.0,136,7.555555555555555
 Alice Russell,83,0,2-Apr-12,Look Around the Corner,tbd,0,0.0
 The Henry Clay People,83,2,26-Jun-12,Twenty-Five for the Rest of Our Lives,tbd,1,0.5
 Earth,83,5,14-Feb-12,"Angels of Darkness, Demons of Light, Vol. 2",8.3,0,0.0
@@ -1351,14 +1351,14 @@ Saint Etienne,82,24,29-May-12,Words & Music by Saint Etienne,7.9,0,0.0
 Field Report,82,10,11-Sep-12,Field Report,7.5,4,0.4
 Viva Brother,34,9,1-Aug-11,Famous First Words,2.5,1,0.1111111111111111
 Richard Ashcroft,39,12,22-Mar-11,United Nations of Sound,6.4,14,1.1666666666666667
-V-Nasty,39,12,13-Dec-11,BAYTL,2.1,200,16.666666666666668
+V-Nasty,39,12,13-Dec-11,BAYTL,2.1,210,17.5
 James Blunt,45,15,18-Jan-11,Some Kind of Trouble,6.6,0,0.0
 Metallica,45,0,1-Nov-11,Lulu,2.3,0,0.0
 The Antlers,46,8,22-Nov-11,(Together) [EP],5.1,0,0.0
 Misfits,46,16,6-Sep-11,The Devil's Rain,4.2,37,2.3125
 Jennifer Lopez,46,16,3-May-11,Love?,6.4,7,0.4375
 Sum 41,47,16,29-Mar-11,Screaming Bloody Murder,8.3,5,0.3125
-LMFAO,47,15,21-Jun-11,Sorry for Party Rocking,4.6,50,3.3333333333333335
+LMFAO,47,15,21-Jun-11,Sorry for Party Rocking,4.6,53,3.533333333333333
 Sublime with Rome,48,16,12-Jul-11,Yours Truly,5.1,4,0.25
 Incubus,48,13,12-Jul-11,"If Not Now, When?",6.4,3,0.23076923076923078
 Owl City,49,18,14-Jun-11,All Things Bright and Beautiful,6.9,0,0.0
@@ -1369,14 +1369,14 @@ Nickelback,51,11,21-Nov-11,Here and Now,4.6,25,2.272727272727273
 Scotty McCreery,51,12,4-Oct-11,Clear as Day,6.5,2,0.16666666666666666
 Bush,51,16,13-Sep-11,The Sea of Memories,6.3,4,0.25
 Ray Davies,51,17,5-Apr-11,See My Friends,tbd,1,0.058823529411764705
-Chris Brown,52,20,22-Mar-11,F.A.M.E.,5.4,73,3.65
+Chris Brown,52,20,22-Mar-11,F.A.M.E.,5.4,75,3.75
 Superheavy,52,15,20-Sep-11,SuperHeavy,5.2,4,0.26666666666666666
 James Morrison,52,13,11-Oct-11,The Awakening,6.3,0,0.0
 Sophie Ellis-Bextor,53,14,6-Jun-11,Make a Scene,8.3,0,0.0
 Yes,53,11,12-Jul-11,Fly from Here,7.1,0,0.0
-Limp Bizkit,53,19,28-Jun-11,Gold Cobra,6.2,154,8.105263157894736
+Limp Bizkit,53,19,28-Jun-11,Gold Cobra,6.2,160,8.421052631578947
 The Kooks,54,16,13-Sep-11,Junk of the Heart,6.5,3,0.1875
-Professor Green,54,17,8-Nov-11,At Your Inconvenience,6.3,61,3.588235294117647
+Professor Green,54,17,8-Nov-11,At Your Inconvenience,6.3,62,3.6470588235294117
 The Sounds,54,9,29-Mar-11,Something to Die For,tbd,2,0.2222222222222222
 Wild Palms,54,0,12-Apr-11,Until Spring,tbd,0,0.0
 Jane's Addiction,55,10,18-Oct-11,The Great Escape Artist,7.1,4,0.4
@@ -1386,7 +1386,7 @@ Staind,55,10,13-Sep-11,Staind,7.9,8,0.8
 David Guetta,56,13,29-Aug-11,Nothing But the Beat,6.6,10,0.7692307692307693
 Gomez,56,7,21-Jun-11,Whatever's On Your Mind,tbd,0,0.0
 Susan Boyle,56,9,1-Nov-11,Someone To Watch over Me,4.8,0,0.0
-T-Pain,56,18,6-Dec-11,rEvolver,4.0,113,6.277777777777778
+T-Pain,56,18,6-Dec-11,rEvolver,4.0,114,6.333333333333333
 Joe Ely,57,2,7-Jun-11,Satisfied at Last,tbd,8,4.0
 Paris Suit Yourself,57,0,1-Mar-11,My Main Shitstain,tbd,0,0.0
 Lupe Fiasco,57,15,8-Mar-11,Lasers,6.1,16,1.0666666666666667
@@ -1398,14 +1398,14 @@ Cosmo Jarvis,57,17,11-Oct-11,Is the World Strange or Am I Strange?,tbd,20,1.1764
 Waka Flocka Flame,57,0,9-Aug-11,Ferrari Boyz,6.3,0,0.0
 Korn,58,13,6-Dec-11,The Path of Totality,6.0,38,2.923076923076923
 Big Talk,58,12,19-Jul-11,Big Talk,7.7,5,0.4166666666666667
-Snoop Dogg,58,26,29-Mar-11,Doggumentary,6.4,263,10.115384615384615
+Snoop Dogg,58,26,29-Mar-11,Doggumentary,6.4,274,10.538461538461538
 Digitalism,58,11,5-Jul-11,"I Love You, Dude",7.8,24,2.1818181818181817
 Human League,58,0,13-Sep-11,Credo,tbd,0,0.0
 Young the Giant,58,15,25-Jan-11,Young the Giant,8.5,2,0.13333333333333333
 Avril Lavigne,58,14,8-Mar-11,Goodbye Lullaby,8.0,41,2.9285714285714284
 Joker,58,2,8-Nov-11,The Vision,tbd,0,0.0
 Glasvegas,58,10,4-Apr-11,Euphoric Heartbreak,8.2,3,0.3
-Mac Miller,58,18,8-Nov-11,Blue Slide Park,5.7,161,8.944444444444445
+Mac Miller,58,18,8-Nov-11,Blue Slide Park,5.7,158,8.777777777777779
 Kassidy,58,9,21-Mar-11,Hope St.,tbd,0,0.0
 Maria Taylor,58,9,16-Aug-11,Overlook,tbd,0,0.0
 Brilliant Colors,59,1,19-Jul-11,Again and Again,tbd,0,0.0
@@ -1419,20 +1419,20 @@ Joss Stone,59,13,26-Jul-11,LP1,6.3,9,0.6923076923076923
 200 Years,59,0,8-Nov-11,200 Years,tbd,0,0.0
 Jeniferever,59,9,12-Apr-11,Silesia,tbd,0,0.0
 Gary Numan,59,11,6-Dec-11,Dead Son Rising,8.8,8,0.7272727272727273
-Wiz Khalifa,59,17,29-Mar-11,Rolling Papers,5.8,122,7.176470588235294
-Lil Wayne,60,22,29-Aug-11,Tha Carter IV,4.8,399,18.136363636363637
+Wiz Khalifa,59,17,29-Mar-11,Rolling Papers,5.8,135,7.9411764705882355
+Lil Wayne,60,22,29-Aug-11,Tha Carter IV,4.8,404,18.363636363636363
 White Lies,60,11,18-Jan-11,Ritual,6.9,2,0.18181818181818182
 London Classical Orchestra,60,0,4-Oct-11,Paul McCartney: Ocean's Kingdom,7.3,0,0.0
 About Group,60,0,26-Apr-11,Start and Complete,tbd,0,0.0
 Ry Cooder,92,14,29-Aug-11,Pull Up Some Dust and Sit Down,6.9,2,0.14285714285714285
-Saigon,89,24,15-Feb-11,The Greatest Story Never Told,8.4,163,6.791666666666667
-Phonte,88,12,27-Sep-11,Charity Starts at Home,7.9,88,7.333333333333333
+Saigon,89,24,15-Feb-11,The Greatest Story Never Told,8.4,167,6.958333333333333
+Phonte,88,12,27-Sep-11,Charity Starts at Home,7.9,91,7.583333333333333
 Tom Waits,88,16,25-Oct-11,Bad as Me,7.8,18,1.125
-The Roots,88,15,6-Dec-11,Undun,8.7,30,2.0
+The Roots,88,15,6-Dec-11,Undun,8.7,31,2.066666666666667
 Thursday,88,12,12-Apr-11,No Devolucion,8.6,3,0.25
-9th Wonder,87,19,27-Sep-11,The Wonder Years,7.0,92,4.842105263157895
+9th Wonder,87,19,27-Sep-11,The Wonder Years,7.0,95,5.0
 Wolves in the Throne Room,87,6,13-Sep-11,Celestial Lineage,8.3,0,0.0
-The Weeknd,87,9,21-Mar-11,House of Balloons,8.9,53,5.888888888888889
+The Weeknd,87,9,21-Mar-11,House of Balloons,8.9,51,5.666666666666667
 PJ Harvey,86,14,15-Feb-11,Let England Shake,8.7,1,0.07142857142857142
 tUnE-yArDs,86,10,19-Apr-11,Who Kill,8.1,4,0.4
 Bon Iver,86,11,21-Jun-11,Bon Iver,8.6,1,0.09090909090909091
@@ -1463,9 +1463,9 @@ Shackleton,84,0,6-Dec-11,Pinch & Shackleton,tbd,0,0.0
 Johann Johannsson,84,0,24-May-11,The Miner's Hymns,tbd,0,0.0
 Delicate Steve,84,0,25-Jan-11,Wondervisions,8.7,0,0.0
 Thee Oh Sees,83,10,8-Nov-11,Carrion Crawler/The Dream,8.5,0,0.0
-Frank Ocean,83,14,18-Feb-11,"Nostalgia, Ultra.",8.7,27,1.9285714285714286
+Frank Ocean,83,14,18-Feb-11,"Nostalgia, Ultra.",8.7,29,2.0714285714285716
 The Field,83,0,11-Oct-11,Looping State of Mind,8.5,0,0.0
-Beastie Boys,83,17,3-May-11,"Hot Sauce Committee, Pt. 2",8.2,24,1.411764705882353
+Beastie Boys,83,17,3-May-11,"Hot Sauce Committee, Pt. 2",8.2,23,1.3529411764705883
 The Horrors,83,10,9-Aug-11,Skying,8.1,0,0.0
 Gang Gang Dance,83,10,10-May-11,Eye Contact,8.3,1,0.1
 Diamond Rings,83,10,21-Jun-11,Special Affections,7.7,0,0.0
@@ -1483,7 +1483,7 @@ William Elliott Whitmore,83,12,12-Jul-11,Field Songs,tbd,2,0.16666666666666666
 Shabazz Palaces,83,10,28-Jun-11,Black Up,8.4,33,3.3
 Wilco,83,17,27-Sep-11,The Whole Love,8.5,0,0.0
 Levon Helm,82,11,17-May-11,Ramble at the Ryman,tbd,0,0.0
-TV on the Radio,82,11,12-Apr-11,Nine Types of Light,8.0,8,0.7272727272727273
+TV on the Radio,82,11,12-Apr-11,Nine Types of Light,8.0,10,0.9090909090909091
 Thrice,82,13,20-Sep-11,Major/Minor,8.3,1,0.07692307692307693
 Brad Paisley,82,16,23-May-11,This Is Country Music,8.5,10,0.625
 Laura Marling,82,24,13-Sep-11,A Creature I Don't Know,8.6,0,0.0
