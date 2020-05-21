@@ -496,6 +496,134 @@ for i in error_title_artist_mapping2:
         albums_df.at[i, "lyrics"] = result_tuple[0]
         albums_df.at[i, "num_lyric_tracks"] = result_tuple[1]
 
+# maps index of album for which no lyrics are stored to a tuple (album_title, 
+# album_artist). Used specifically after add_lyrics_normal_alternate is executed 
+# and albums with punctuation have been accounted for, so as to determine which 
+# albums still lack scraped lyrics.
+error_title_artist_mapping3 = {}
+
+for index, row in albums_df.iterrows():
+    if len(row["lyrics"]) == 2:
+        error_title_artist_mapping3[index] = (row["title"], row["artist"])
+
+additional_url_mappings = {
+    17: "https://genius.com/albums/Freddie-gibbs-and-madlib/Bandana",
+    41: "https://genius.com/albums/Nilufer-yanya/Miss-universe",
+    67: "https://genius.com/albums/Danny-brown/Uknowhatimsayin",
+    139: "https://genius.com/albums/Dawn-richard/New-breed",
+    156: "https://genius.com/albums/Nerija/Blume",
+    172: "https://genius.com/albums/Van-morrison/Three-chords-the-truth",
+    207: "https://genius.com/albums/Karen-o-and-danger-mouse/Lux-prima",
+    292: "https://genius.com/albums/Calexico-and-iron-and-wine/Years-to-burn",
+    413: "https://genius.com/albums/Czarface-and-ghostface-killah/Czarface-meets-ghostface",
+    435: "https://genius.com/albums/Francis-lung/A-dream-is-u",
+    462: "https://genius.com/albums/Celine-dion/Courage-deluxe-edition",
+    463: "https://genius.com/albums/Belle-and-sebastian/Days-of-the-bagnold-summer",
+    470: "https://genius.com/albums/Billy-corgan/Cotillions",
+    499: "https://genius.com/albums/Nas/The-lost-tapes-2",
+    525: "https://genius.com/albums/Janelle-monae/Dirty-computer",
+    542: "https://genius.com/albums/Angelique-kidjo/Remain-in-light",
+    624: "https://genius.com/albums/The-bevis-frond/We-re-your-friends-man",
+    632: "https://genius.com/albums/Mark-lanegan-and-duke-garwood/With-animals",
+    728: "https://genius.com/albums/Aidan-moffat-and-rm-hubbert/Here-lies-the-body",
+    733: "https://genius.com/albums/Aisha-devi/Dna-feelings",
+    760: "https://genius.com/albums/Meg-baird-and-mary-lattimore/Ghost-forests",
+    828: "https://genius.com/albums/Vessel-uk/Queen-of-golden-dogs",
+    849: "https://genius.com/albums/Polica/Music-for-the-long-emergency",
+    897: "https://genius.com/albums/Susanna-wallumrd/Go-dig-my-grave",
+    917: "https://genius.com/albums/Dungen-and-woods/Myths-003",
+    1003: "https://genius.com/albums/M/Forever-neverland",
+    1017: "https://genius.com/albums/Neil-and-liam-finn/Lightsleeper",
+    1034: "https://genius.com/albums/Ty-segall-and-white-fence/Joy",
+    1035: "https://genius.com/albums/Jeff-goldblum-and-the-mildred-snitzer-orchestra/The-capitol-studios-sessions",
+    1053: "https://genius.com/albums/Gengahr/Where-wildness-grows",
+    1092: "https://genius.com/albums/Rapsody/Laila-s-wisdom",
+    1093: "https://genius.com/albums/Oxbow/Thin-black-duke",
+    1127: "https://genius.com/albums/Karine-polwart-with-pippa-murphy/A-pocket-of-wind-resistance",
+    1155: "https://genius.com/albums/Mark-lanegan/Gargoyle",
+    1170: "https://genius.com/albums/Bjork/Utopia",
+    1185: "https://genius.com/albums/The-body-and-full-of-hell/Ascending-a-mountain-of-heavy-light",
+    1294: "https://genius.com/albums/Susanne-sundfr/Music-for-people-in-trouble",
+    1316: "https://genius.com/albums/Courtney-barnett-and-kurt-vile/Lotta-sea-lice",
+    1360: "https://genius.com/albums/21-savage-offset-and-metro-boomin/Without-warning",
+    1397: "https://genius.com/albums/Pulled-apart-by-horses/Pulled-apart-by-horses",
+    1423: "https://genius.com/albums/Sltface/Try-not-to-freak-out",
+    1530: "https://genius.com/albums/The-charlatans/Different-days",
+    1539: "https://genius.com/albums/Camille/Oui",
+    1541: "https://genius.com/albums/Oh-sees/Memory-of-a-cut-off-head",
+    1562: "https://genius.com/albums/The-flamin-groovies/Fantastic-plastic",
+    1569: "https://genius.com/albums/Lindsey-buckingham-and-christine-mcvie/Lindsey-buckingham-christine-mcvie",
+    1572: "https://genius.com/albums/Sufjan-stevens-bryce-dessner-nico-muhly-james-mcalister/Planetarium",
+    1619: "https://genius.com/albums/Chilly-gonzales-and-jarvis-cocker/Room-29",
+    1631: "https://genius.com/albums/Glen-campbell/Adios",
+    1646: "https://genius.com/albums/Noveller/A-pink-sunset-for-no-one",
+    1648: "https://genius.com/albums/Chaz-bundick-meets-the-mattson-2/Star-stuff",
+    1657: "https://genius.com/albums/Melvins/A-walk-with-love-death",
+    1681: "https://genius.com/albums/Maximo-park/Risk-to-exist",
+    1694: "https://genius.com/albums/The-isley-brothers-and-santana/Power-of-peace",
+    1701: "https://genius.com/albums/Death-from-above-1979/Outrage-is-now",
+    1721: "https://genius.com/albums/The-dears/Times-infinity-volume-two",
+    1731: "https://genius.com/albums/Amanda-palmer-and-edward-ka-spel/I-can-spin-a-rainbow",
+    1748: "https://genius.com/albums/Beyonce/Lemonade",
+    1762: "https://genius.com/albums/Nails-metal/You-will-never-be-one-of-us",
+    1773: "https://genius.com/albums/Teho-teardo-and-blixa-bargeld/Nerissimo",
+    1824: "https://genius.com/albums/The-rolling-stones/Blue-lonesome",
+    1833: "https://genius.com/albums/Hamilton-leithauser-rostam/I-had-a-dream-that-you-were-mine",
+    1918: "https://genius.com/albums/Ian-hunter-and-the-rant-band/Fingers-crossed",
+    1949: "https://genius.com/albums/Sam-beam-and-jesca-hoop/Love-letter-for-fire",
+    1980: "https://genius.com/albums/Johann-johannsson/Orphee",
+    1985: "https://genius.com/albums/Rokia-traore/Ne-so",
+    2069: "https://genius.com/albums/Pete-astor/Spilt-milk",
+    2086: "https://genius.com/albums/Mica-levi-and-oliver-coates/Remain-calm",
+    2097: "https://genius.com/albums/The-lemon-twigs/Do-hollywood",
+    2116: "https://genius.com/albums/Susanna-wallumrd/Triangle",
+    2150: "https://genius.com/albums/The-invisible-uk/Patience",
+    2192: "https://genius.com/albums/Gggs/Gggs",
+    2194: "https://genius.com/albums/Dean-ween-group/The-deaner-album",
+    2199: "https://genius.com/albums/Lapsley/Long-way-home",
+    2250: "https://genius.com/albums/Polica/United-crushers",
+    2256: "https://genius.com/albums/Jack-and-amanda-palmer/You-got-me-singing",
+    2271: "https://genius.com/albums/Emeli-sande/Long-live-the-angels",
+    2298: "https://genius.com/albums/Santigold/99",
+    2318: "https://genius.com/albums/The-claypool-lennon-delirium/The-monolith-of-phobos",
+    2345: "https://genius.com/albums/Hlos/Full-circle",
+    2351: "https://genius.com/albums/Dalek/Asphalt-for-eden",
+    2353: "https://genius.com/albums/Partynextdoor/Partynextdoor-3-p3",
+    2370: "https://genius.com/albums/Cheena/Spend-the-night-with",
+    2371: "https://genius.com/albums/Moonface-and-siinai/My-best-human-face",
+    2402: "https://genius.com/albums/Sting/57th-9th",
+    2417: "https://genius.com/albums/Trentemller/Fixion",
+    2499: "https://genius.com/albums/Susanne-sundfr/Ten-love-songs",
+    2503: "https://genius.com/albums/Bjork/Vulnicura",
+    2570: "https://genius.com/albums/The-pre-new/The-male-eunuch",
+    2582: "https://genius.com/albums/Colin-stetson-and-sarah-neufeld/Never-were-the-way-she-was",
+    2619: "https://genius.com/albums/Motorhead/Bad-magic",
+    2628: "https://genius.com/albums/The-charlatans/Modern-nature",
+    2645: "https://genius.com/albums/Dan-mangan-blacksmith/Club-meds",
+    2673: "https://genius.com/albums/Membranes/Dark-matter-dark-energy",
+    2753: "https://genius.com/albums/Kwabs/Love-war",
+    2759: "https://genius.com/albums/Shining-nor/International-blackjazz-society",
+    2806: "https://genius.com/albums/Badbadnotgood-and-ghostface-killah/Sour-soul",
+    2840: "https://genius.com/albums/Emmylou-harris-and-rodney-crowell/The-traveling-kind",
+    2896: "https://genius.com/albums/Boosie-badazz/Touchdown-2-cause-hell",
+    2932: "https://genius.com/albums/Merle-haggard-and-willie-nelson/Django-jimmie",
+    2957: "https://genius.com/albums/Six-organs-of-admittance/Hexadic",
+    2990: "https://genius.com/albums/The-d/Shake-shook-shaken",
+    3036: "https://genius.com/albums/The-twilight-sad/Oran-mor-session",
+    3047: "https://genius.com/albums/Jack-u/Skrillex-and-diplo-present-jack-u",
+    3085: "https://genius.com/albums/Boots/Aquria",
+    3104: "https://genius.com/albums/Venom-band/From-the-very-depths",
+    3113: "https://genius.com/albums/Carl-barat-and-the-jackals/Let-it-reign",
+    3121: "https://genius.com/albums/Seth-avett-and-jessica-lea-mayfield/Seth-avett-jessica-lea-mayfield-sing-elliott-smith"
+}
+
+# scraping additional lyrics using second of two alternative scraping methods,
+# both of which are documented above in section "Helper Functions"
+for i in error_title_artist_mapping3:
+    if i in additional_url_mappings:
+        result_tuple = add_lyrics_hardcode_alternate(additional_url_mappings[i])
+        albums_df.at[i, "lyrics"] = result_tuple[0]
+        albums_df.at[i, "num_lyric_tracks"] = result_tuple[1]
 
 
 
@@ -598,30 +726,32 @@ albums_df["explicit_count"] = explicit_count
 albums_df["explicit_avg"] = explicit_average
 
 
-# We have now finished constructing our complete DataFrame, a preview of which 
-# is displayed below:
+# To attain our complete DataFrame, we filter out all albums that have no 
+# recorded lyrics:
 
-# albums_df.head()
+has_lyrics = albums_df[albums_df["num_lyric_tracks"] > 0]
+
+# We now have a finalized dataset.
 
 
 
 
 # -------------------------EXPORTING DATA TO CSV FILES-------------------------
 # 
-# The above DataFrame `albums_df` can now be used to perform the data analysis 
+# The above DataFrame `has_lyrics` can now be used to perform the data analysis 
 # required for this project. We will export this DataFrame as a CSV file below, 
 # so as to be able to more readily access it:
 
-albums_df.to_csv("/Users/Genghis/Desktop/INFO_2950/INFO_2950_FinalProject/data/full_albums.csv", index=False)
+has_lyrics.to_csv("/Users/Genghis/Desktop/INFO_2950/INFO_2950_FinalProject/data/full_albums.csv", index=False)
 
 
 # In addition, we will export a condensed version of the above DataFrame 
-# `albums_df` (specifically one without the `lyrics` column), so as to obtain 
+# `has_lyrics` (specifically one without the `lyrics` column), so as to obtain 
 # a smaller dataset. The `lyrics` column has, after all, already been analyzed 
 # for explicit content, and used to construct the columns `explicit_count` and 
 # `explicit_avg`.
 
-condensed_albums_df = albums_df[["artist", "metascore", "num_lyric_tracks", \
+condensed_albums_df = has_lyrics[["artist", "metascore", "num_lyric_tracks", \
     "release_date", "title", "user_score", "explicit_count", "explicit_avg"]]
 
 condensed_albums_df.to_csv("/Users/Genghis/Desktop/INFO_2950/INFO_2950_FinalProject/data/condensed_albums.csv", index=False)
